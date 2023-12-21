@@ -1,6 +1,6 @@
 ---
-title: 我好想做嘉然小姐的狗啊。
-description: 可是嘉然小姐说她喜欢的是猫，我哭了。
+title: hello-world
+description: Welcome to Hugo Theme Stack
 slug: hello-world
 date: 2022-03-06 00:00:00+0000
 image: cover.jpg
