@@ -1,4 +1,15 @@
-
+---
+title: hello-Jekyll
+description: Welcome to Jekyll
+slug: hello-Jekyll
+date: 2022-03-06 00:00:00+0000
+image: cover.jpg
+categories:
+    - Example Category
+tags:
+    - Example Tag
+weight: 1       # You can add weight to some posts to override the default sorting (date descending)
+---
 You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
 Jekyll requires blog post files to be named according to the following format:
