@@ -1,0 +1,789 @@
+<!DOCTYPE html>
+<html lang="en-us" dir="ltr">
+    <head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script><meta charset='utf-8'>
+<meta name='viewport' content='width=device-width, initial-scale=1'><meta name='description' content='知识点1 曲线运动条件及特点'>
+<title>曲线运动</title>
+
+<link rel='canonical' href='http://localhost:1313/p/%E7%9F%A5%E8%AF%86%E7%82%B91-%E6%9B%B2%E7%BA%BF%E8%BF%90%E5%8A%A8%E6%9D%A1%E4%BB%B6%E5%8F%8A%E7%89%B9%E7%82%B9/'>
+
+<link rel="stylesheet" href="/scss/style.min.abbd69b2908fdfcd5179898beaafd374514a86538d81639ddd2c58c06ae54e40.css"><meta property='og:title' content='曲线运动'>
+<meta property='og:description' content='知识点1 曲线运动条件及特点'>
+<meta property='og:url' content='http://localhost:1313/p/%E7%9F%A5%E8%AF%86%E7%82%B91-%E6%9B%B2%E7%BA%BF%E8%BF%90%E5%8A%A8%E6%9D%A1%E4%BB%B6%E5%8F%8A%E7%89%B9%E7%82%B9/'>
+<meta property='og:site_name' content='Hugo Theme Stack Starter'>
+<meta property='og:type' content='article'><meta property='article:section' content='Post' /><meta property='article:tag' content='具体内容' /><meta property='article:published_time' content='2022-03-06T00:00:00&#43;00:00'/><meta property='article:modified_time' content='2022-03-06T00:00:00&#43;00:00'/><meta property='og:image' content='http://localhost:1313/p/%E7%9F%A5%E8%AF%86%E7%82%B91-%E6%9B%B2%E7%BA%BF%E8%BF%90%E5%8A%A8%E6%9D%A1%E4%BB%B6%E5%8F%8A%E7%89%B9%E7%82%B9/cover.jpg' />
+<meta name="twitter:title" content="曲线运动">
+<meta name="twitter:description" content="知识点1 曲线运动条件及特点"><meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:image" content='http://localhost:1313/p/%E7%9F%A5%E8%AF%86%E7%82%B91-%E6%9B%B2%E7%BA%BF%E8%BF%90%E5%8A%A8%E6%9D%A1%E4%BB%B6%E5%8F%8A%E7%89%B9%E7%82%B9/cover.jpg' />
+    <link rel="shortcut icon" href="/favicon.png" />
+
+    </head>
+    <body class="
+    article-page
+    ">
+    <script>
+        (function() {
+            const colorSchemeKey = 'StackColorScheme';
+            if(!localStorage.getItem(colorSchemeKey)){
+                localStorage.setItem(colorSchemeKey, "auto");
+            }
+        })();
+    </script><script>
+    (function() {
+        const colorSchemeKey = 'StackColorScheme';
+        const colorSchemeItem = localStorage.getItem(colorSchemeKey);
+        const supportDarkMode = window.matchMedia('(prefers-color-scheme: dark)').matches === true;
+
+        if (colorSchemeItem == 'dark' || colorSchemeItem === 'auto' && supportDarkMode) {
+            
+
+            document.documentElement.dataset.scheme = 'dark';
+        } else {
+            document.documentElement.dataset.scheme = 'light';
+        }
+    })();
+</script>
+<div class="container main-container flex on-phone--column extended"><aside class="sidebar left-sidebar sticky ">
+    <button class="hamburger hamburger--spin" type="button" id="toggle-menu" aria-label="Toggle Menu">
+        <span class="hamburger-box">
+            <span class="hamburger-inner"></span>
+        </span>
+    </button>
+
+    <header>
+        
+            
+            <figure class="site-avatar">
+                <a href="/">
+                
+                    
+                    
+                    
+                        
+                        <img src="/img/avatar_hu190e528798e90195d3cefef01f0a2d44_410_300x0_resize_box_3.png" width="300"
+                            height="300" class="site-logo" loading="lazy" alt="Avatar">
+                    
+                
+                </a>
+                
+                    <span class="emoji">🍥</span>
+                
+            </figure>
+            
+        
+        
+        <div class="site-meta">
+            <h1 class="site-name"><a href="/">Hugo Theme Stack Starter</a></h1>
+            <h2 class="site-description">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</h2>
+        </div>
+    </header><ol class="social-menu">
+            
+                <li>
+                    <a 
+                        href='https://github.com/CaiJimmy/hugo-theme-stack'
+                        target="_blank"
+                        title="GitHub"
+                        rel="me"
+                    >
+                        
+                        
+                            <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-brand-github" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z" fill="none"/>
+  <path d="M9 19c-4.3 1.4 -4.3 -2.5 -6 -3m12 5v-3.5c0 -1 .1 -1.4 -.5 -2c2.8 -.3 5.5 -1.4 5.5 -6a4.6 4.6 0 0 0 -1.3 -3.2a4.2 4.2 0 0 0 -.1 -3.2s-1.1 -.3 -3.5 1.3a12.3 12.3 0 0 0 -6.2 0c-2.4 -1.6 -3.5 -1.3 -3.5 -1.3a4.2 4.2 0 0 0 -.1 3.2a4.6 4.6 0 0 0 -1.3 3.2c0 4.6 2.7 5.7 5.5 6c-.6 .6 -.6 1.2 -.5 2v3.5" />
+</svg>
+
+
+
+                        
+                    </a>
+                </li>
+            
+                <li>
+                    <a 
+                        href='https://twitter.com'
+                        target="_blank"
+                        title="Twitter"
+                        rel="me"
+                    >
+                        
+                        
+                            <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-brand-twitter" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z" fill="none"/>
+  <path d="M22 4.01c-1 .49 -1.98 .689 -3 .99c-1.121 -1.265 -2.783 -1.335 -4.38 -.737s-2.643 2.06 -2.62 3.737v1c-3.245 .083 -6.135 -1.395 -8 -4c0 0 -4.182 7.433 4 11c-1.872 1.247 -3.739 2.088 -6 2c3.308 1.803 6.913 2.423 10.034 1.517c3.58 -1.04 6.522 -3.723 7.651 -7.742a13.84 13.84 0 0 0 .497 -3.753c-.002 -.249 1.51 -2.772 1.818 -4.013z" />
+</svg>
+
+
+
+                        
+                    </a>
+                </li>
+            
+        </ol><ol class="menu" id="main-menu">
+        
+        
+        
+        <li >
+            <a href='/' >
+                
+                
+                
+                    <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-home" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <polyline points="5 12 3 12 12 3 21 12 19 12" />
+  <path d="M5 12v7a2 2 0 0 0 2 2h10a2 2 0 0 0 2 -2v-7" />
+  <path d="M9 21v-6a2 2 0 0 1 2 -2h2a2 2 0 0 1 2 2v6" />
+</svg>
+
+
+
+                
+                <span>Home</span>
+            </a>
+        </li>
+        
+        
+        <li >
+            <a href='/archives/' >
+                
+                
+                
+                    <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-archive" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <rect x="3" y="4" width="18" height="4" rx="2" />
+  <path d="M5 8v10a2 2 0 0 0 2 2h10a2 2 0 0 0 2 -2v-10" />
+  <line x1="10" y1="12" x2="14" y2="12" />
+</svg>
+
+
+
+                
+                <span>Archives</span>
+            </a>
+        </li>
+        
+        
+        <li >
+            <a href='/search/' >
+                
+                
+                
+                    <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-search" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <circle cx="10" cy="10" r="7" />
+  <line x1="21" y1="21" x2="15" y2="15" />
+</svg>
+
+
+
+                
+                <span>Search</span>
+            </a>
+        </li>
+        
+        
+        <li >
+            <a href='/links/' >
+                
+                
+                
+                    <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-link" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <path d="M10 14a3.5 3.5 0 0 0 5 0l4 -4a3.5 3.5 0 0 0 -5 -5l-.5 .5" />
+  <path d="M14 10a3.5 3.5 0 0 0 -5 0l-4 4a3.5 3.5 0 0 0 5 5l.5 -.5" />
+</svg>
+
+
+
+                
+                <span>Links</span>
+            </a>
+        </li>
+        
+
+        <div class="menu-bottom-section">
+            
+            
+                <li id="dark-mode-toggle">
+                    <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-toggle-left" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <circle cx="8" cy="12" r="2" />
+  <rect x="2" y="6" width="20" height="12" rx="6" />
+</svg>
+
+
+
+                    <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-toggle-right" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <circle cx="16" cy="12" r="2" />
+  <rect x="2" y="6" width="20" height="12" rx="6" />
+</svg>
+
+
+
+                    <span>Dark Mode</span>
+                </li>
+            
+        </div>
+    </ol>
+</aside>
+
+    <aside class="sidebar right-sidebar sticky">
+        
+            
+                
+    <section class="widget archives">
+        <div class="widget-icon">
+            <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-hash" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <line x1="5" y1="9" x2="19" y2="9" />
+  <line x1="5" y1="15" x2="19" y2="15" />
+  <line x1="11" y1="4" x2="7" y2="20" />
+  <line x1="17" y1="4" x2="13" y2="20" />
+</svg>
+
+
+
+        </div>
+        <h2 class="widget-title section-title">Table of contents</h2>
+        
+        <div class="widget--toc">
+            <nav id="TableOfContents">
+  <ol>
+    <li><a href="#基础知识梳理">基础知识梳理</a>
+      <ol>
+        <li><a href="#知识点1-曲线运动条件及特点">知识点1 曲线运动条件及特点</a>
+          <ol>
+            <li><a href="#速度的方向">速度的方向</a></li>
+            <li><a href="#运动的性质">运动的性质</a></li>
+            <li><a href="#物体做曲线运动的条件">物体做曲线运动的条件</a></li>
+            <li><a href="#运动轨迹的判断">运动轨迹的判断</a></li>
+          </ol>
+        </li>
+        <li><a href="#知识点1-曲线运动速率的变化">知识点1 曲线运动速率的变化</a></li>
+      </ol>
+    </li>
+    <li><a href="#题型归纳">题型归纳</a>
+      <ol>
+        <li><a href="#考向1-曲线运动条件及特点">考向1 曲线运动条件及特点</a>
+          <ol>
+            <li><a href="#第1题">第1题</a></li>
+            <li><a href="#第2题">第2题</a></li>
+          </ol>
+        </li>
+        <li><a href="#考向2-曲线运动速率的变化">考向2 曲线运动速率的变化</a>
+          <ol>
+            <li><a href="#第3题">第3题</a></li>
+            <li><a href="#第4题">第4题</a></li>
+          </ol>
+        </li>
+      </ol>
+    </li>
+  </ol>
+</nav>
+        </div>
+    </section>
+
+            
+        
+    </aside>
+
+
+            <main class="main full-width">
+    <article class="has-image main-article">
+    <header class="article-header">
+        <div class="article-image">
+            <a href="/p/%E7%9F%A5%E8%AF%86%E7%82%B91-%E6%9B%B2%E7%BA%BF%E8%BF%90%E5%8A%A8%E6%9D%A1%E4%BB%B6%E5%8F%8A%E7%89%B9%E7%82%B9/">
+                <img src="/p/%E7%9F%A5%E8%AF%86%E7%82%B91-%E6%9B%B2%E7%BA%BF%E8%BF%90%E5%8A%A8%E6%9D%A1%E4%BB%B6%E5%8F%8A%E7%89%B9%E7%82%B9/cover_hu20dc83724fa5b822edf24e5f44aaea32_13460_800x0_resize_q75_box.jpg"
+                        srcset="/p/%E7%9F%A5%E8%AF%86%E7%82%B91-%E6%9B%B2%E7%BA%BF%E8%BF%90%E5%8A%A8%E6%9D%A1%E4%BB%B6%E5%8F%8A%E7%89%B9%E7%82%B9/cover_hu20dc83724fa5b822edf24e5f44aaea32_13460_800x0_resize_q75_box.jpg 800w, /p/%E7%9F%A5%E8%AF%86%E7%82%B91-%E6%9B%B2%E7%BA%BF%E8%BF%90%E5%8A%A8%E6%9D%A1%E4%BB%B6%E5%8F%8A%E7%89%B9%E7%82%B9/cover_hu20dc83724fa5b822edf24e5f44aaea32_13460_1600x0_resize_q75_box.jpg 1600w"
+                        width="800" 
+                        height="532" 
+                        loading="lazy"
+                        alt="Featured image of post 曲线运动" />
+                
+            </a>
+        </div>
+    
+
+    <div class="article-details">
+    
+    <header class="article-category">
+        
+            <a href="/categories/%E5%85%B7%E4%BD%93%E5%86%85%E5%AE%B9/" >
+                具体内容
+            </a>
+        
+    </header>
+    
+
+    <div class="article-title-wrapper">
+        <h2 class="article-title">
+            <a href="/p/%E7%9F%A5%E8%AF%86%E7%82%B91-%E6%9B%B2%E7%BA%BF%E8%BF%90%E5%8A%A8%E6%9D%A1%E4%BB%B6%E5%8F%8A%E7%89%B9%E7%82%B9/">曲线运动</a>
+        </h2>
+    
+        
+        <h3 class="article-subtitle">
+            知识点1 曲线运动条件及特点
+        </h3>
+        
+    </div>
+
+    
+    
+    
+    
+    <footer class="article-time">
+        
+            <div>
+                <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-calendar-time" width="56" height="56" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <path d="M11.795 21h-6.795a2 2 0 0 1 -2 -2v-12a2 2 0 0 1 2 -2h12a2 2 0 0 1 2 2v4" />
+  <circle cx="18" cy="18" r="4" />
+  <path d="M15 3v4" />
+  <path d="M7 3v4" />
+  <path d="M3 11h16" />
+  <path d="M18 16.496v1.504l1 1" />
+</svg>
+                <time class="article-time--published">Mar 06, 2022</time>
+            </div>
+        
+
+        
+            <div>
+                <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-clock" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <circle cx="12" cy="12" r="9" />
+  <polyline points="12 7 12 12 15 15" />
+</svg>
+
+
+
+                <time class="article-time--reading">
+                    1 minute read
+                </time>
+            </div>
+        
+    </footer>
+    
+
+    
+</div>
+
+</header>
+
+    <section class="article-content">
+    
+    
+    <p><img src="/p/%E7%9F%A5%E8%AF%86%E7%82%B91-%E6%9B%B2%E7%BA%BF%E8%BF%90%E5%8A%A8%E6%9D%A1%E4%BB%B6%E5%8F%8A%E7%89%B9%E7%82%B9/cover.jpg"
+	width="275"
+	height="183"
+	srcset="/p/%E7%9F%A5%E8%AF%86%E7%82%B91-%E6%9B%B2%E7%BA%BF%E8%BF%90%E5%8A%A8%E6%9D%A1%E4%BB%B6%E5%8F%8A%E7%89%B9%E7%82%B9/cover_hu20dc83724fa5b822edf24e5f44aaea32_13460_480x0_resize_q75_box.jpg 480w, /p/%E7%9F%A5%E8%AF%86%E7%82%B91-%E6%9B%B2%E7%BA%BF%E8%BF%90%E5%8A%A8%E6%9D%A1%E4%BB%B6%E5%8F%8A%E7%89%B9%E7%82%B9/cover_hu20dc83724fa5b822edf24e5f44aaea32_13460_1024x0_resize_q75_box.jpg 1024w"
+	loading="lazy"
+	
+		alt="经特殊手法拍摄的星轨就是星星的曲线运动，图片来自wiki"
+	
+	
+		class="gallery-image" 
+		data-flex-grow="150"
+		data-flex-basis="360px"
+	
+></p>
+<h2 id="基础知识梳理">基础知识梳理</h2>
+<h3 id="知识点1-曲线运动条件及特点">知识点1 曲线运动条件及特点</h3>
+<h4 id="速度的方向">速度的方向</h4>
+<p>速度的方向: 质点在某一点的速度方向,沿曲线在这一点的<code>切线方向</code>。</p>
+<h4 id="运动的性质">运动的性质</h4>
+<p>运动的性质:做曲线运动的物体,速度的方向时刻在改变,所以曲线运动一定是<code>变速</code>运动。</p>
+<h4 id="物体做曲线运动的条件">物体做曲线运动的条件</h4>
+<p>物体做曲线运动的条件:物体所受合力的方向与它的速度方向不在同一条直线上或它的加速度方向与速度方向不在同一条直线上。</p>
+<h4 id="运动轨迹的判断">运动轨迹的判断</h4>
+<p>(1)若物体所受合力方向与速度方向在同一直线上,则物体做直线运动;若物体所受合力方向与速度方向不在同一直线上,则物体做曲线运动。</p>
+<p>(2)物体做曲线运动时,合力指向轨迹的凹侧;运动轨迹在速度方向与合力方向所夹的区间。可速记为“无力不弯,力速两边”。</p>
+<h3 id="知识点1-曲线运动速率的变化">知识点1 曲线运动速率的变化</h3>
+<p>合力方向与速度方向的<code>夹角</code>和<code>速率变化</code>的关系</p>
+<div class="table-wrapper"><table>
+<thead>
+<tr>
+<th>锐角</th>
+<th>直角</th>
+<th>钝角</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>速率增大</td>
+<td>速率不变</td>
+<td>速率减小</td>
+</tr>
+</tbody>
+</table></div>
+<h2 id="题型归纳">题型归纳</h2>
+<h3 id="考向1-曲线运动条件及特点">考向1 曲线运动条件及特点</h3>
+<h4 id="第1题">第1题</h4>
+<ol>
+<li>关于运动和力,以下说法正确的是(  )</li>
+</ol>
+<p>A.物体在不垂直于速度方向的合力作用下,速度大小可能一直不变</p>
+<p>B.物体受到变化的合力作用时,它的速度大小一定改变</p>
+<p>C.物体受到的力不为恒力,物体一定做曲线运动</p>
+<p>D.初速度不为零,并且受到与初速度方向不在同一条直线的外力作用,物体一定做曲线运动</p>
+<blockquote>
+<p>【答案】D</p>
+<blockquote>
+<p>【详解】</p>
+<p>A.物体在不垂直于速度方向的合力作用下,由于合力对物体做功,所以速度大小一定变化,故A错误;</p>
+<p>B.物体受到变化的合力作用时,它的速度大小可以不改变,比如匀速圆周运动,故 B 错误;</p>
+<p>C.物体受到的力不为恒力,在变力的作用下不一定做曲线运动,如汽车恒定功率启动,合力不断变化,但是汽车做直线运动,故 C 错误;</p>
+<p>D.只有速度方向与合外力的方向不在一条直线上时,物体才做曲线运动,故 D 正确。</p>
+</blockquote>
+</blockquote>
+<h4 id="第2题">第2题</h4>
+<ol start="2">
+<li>“落叶球”是足球比赛中任意球的一种踢法,如图所示,这是某运动员主罚任意球时踢出快速旋转的“落叶球”在空中运动的轨迹跟正常飞行轨迹相比,“落叶球”会更早地向下落回地面。对“落叶球”在飞行过程中的分析正确的是( )</li>
+</ol>
+<p><img src="/p/%E7%9F%A5%E8%AF%86%E7%82%B91-%E6%9B%B2%E7%BA%BF%E8%BF%90%E5%8A%A8%E6%9D%A1%E4%BB%B6%E5%8F%8A%E7%89%B9%E7%82%B9/2.png"
+	width="700"
+	height="366"
+	srcset="/p/%E7%9F%A5%E8%AF%86%E7%82%B91-%E6%9B%B2%E7%BA%BF%E8%BF%90%E5%8A%A8%E6%9D%A1%E4%BB%B6%E5%8F%8A%E7%89%B9%E7%82%B9/2_hudb432882413b7dfd8175897937e537e2_296441_480x0_resize_box_3.png 480w, /p/%E7%9F%A5%E8%AF%86%E7%82%B91-%E6%9B%B2%E7%BA%BF%E8%BF%90%E5%8A%A8%E6%9D%A1%E4%BB%B6%E5%8F%8A%E7%89%B9%E7%82%B9/2_hudb432882413b7dfd8175897937e537e2_296441_1024x0_resize_box_3.png 1024w"
+	loading="lazy"
+	
+		alt="落叶球"
+	
+	
+		class="gallery-image" 
+		data-flex-grow="191"
+		data-flex-basis="459px"
+	
+></p>
+<p>A.“落叶球”在空中的运动轨迹是对称的</p>
+<p>B.“落叶球”的更早下落是因为在运动过程中受到了指向轨迹内侧的空气作用力</p>
+<p>C.“落叶球”的更早下落是因为在运动过程中受到了沿切线方向的空气阻力</p>
+<p>D.“落叶球”在最高点的瞬时速度为零</p>
+<blockquote>
+<p>【答案】B</p>
+<blockquote>
+<p>【详解】</p>
+<p>A.“落叶球”是快速旋转的球,所以在空中的轨迹不是对称的,A 错误;</p>
+<p>BC.根据做曲线运动的条件,“落叶球”的更早下落是因为在运动过程中受到了指向轨迹内侧的空气作用力,C 错误 B 正确;</p>
+<p>D.“落叶球”在最高点的竖直速度为零,水平速度不为零,所以瞬时速度不为零,D 错误。故选 B。</p>
+</blockquote>
+</blockquote>
+<h3 id="考向2-曲线运动速率的变化">考向2 曲线运动速率的变化</h3>
+<h4 id="第3题">第3题</h4>
+<p>3.双人滑运动员在光滑的水平冰面上做表演,甲运动员给乙运动员一个水平恒力$F$,乙运动员在冰面上完成了一段优美的弧线$MN$。$v_M$与$v_N$正好成90°角,则此过程中,乙运动员受到甲运动员的恒力可能是图中的( )</p>
+<p><img src="/p/%E7%9F%A5%E8%AF%86%E7%82%B91-%E6%9B%B2%E7%BA%BF%E8%BF%90%E5%8A%A8%E6%9D%A1%E4%BB%B6%E5%8F%8A%E7%89%B9%E7%82%B9/3.png"
+	width="458"
+	height="377"
+	srcset="/p/%E7%9F%A5%E8%AF%86%E7%82%B91-%E6%9B%B2%E7%BA%BF%E8%BF%90%E5%8A%A8%E6%9D%A1%E4%BB%B6%E5%8F%8A%E7%89%B9%E7%82%B9/3_hu4ac2525f8a12d8090f9979bdcf43e951_13984_480x0_resize_box_3.png 480w, /p/%E7%9F%A5%E8%AF%86%E7%82%B91-%E6%9B%B2%E7%BA%BF%E8%BF%90%E5%8A%A8%E6%9D%A1%E4%BB%B6%E5%8F%8A%E7%89%B9%E7%82%B9/3_hu4ac2525f8a12d8090f9979bdcf43e951_13984_1024x0_resize_box_3.png 1024w"
+	loading="lazy"
+	
+	
+		class="gallery-image" 
+		data-flex-grow="121"
+		data-flex-basis="291px"
+	
+></p>
+<p>A. $F_1$</p>
+<p>B. $F_2$</p>
+<p>C. $F_3$</p>
+<p>D. $F_4$</p>
+<blockquote>
+<p>【答案】C</p>
+<blockquote>
+<p>【详解】根据图示物体由 M 向 N 做曲线运动,物体向上的速度减小,同时向右的速度增大,故合外力的方向指向图 $F_2$ 水平线下方,故 $F_3$ 的方向可能是正确的。故选 C。</p>
+</blockquote>
+</blockquote>
+<h4 id="第4题">第4题</h4>
+<p>4.图示为质点做匀变速运动的轨迹示意图,质点运动到D点时速度方向与加速度方向恰好垂直.则质点从A点运动到E点的过程中,下列说法中正确的是( )</p>
+<p><img src="/p/%E7%9F%A5%E8%AF%86%E7%82%B91-%E6%9B%B2%E7%BA%BF%E8%BF%90%E5%8A%A8%E6%9D%A1%E4%BB%B6%E5%8F%8A%E7%89%B9%E7%82%B9/4.png"
+	width="685"
+	height="284"
+	srcset="/p/%E7%9F%A5%E8%AF%86%E7%82%B91-%E6%9B%B2%E7%BA%BF%E8%BF%90%E5%8A%A8%E6%9D%A1%E4%BB%B6%E5%8F%8A%E7%89%B9%E7%82%B9/4_hub6d3ff8e66e7883c948e4942bdc7a69a_24108_480x0_resize_box_3.png 480w, /p/%E7%9F%A5%E8%AF%86%E7%82%B91-%E6%9B%B2%E7%BA%BF%E8%BF%90%E5%8A%A8%E6%9D%A1%E4%BB%B6%E5%8F%8A%E7%89%B9%E7%82%B9/4_hub6d3ff8e66e7883c948e4942bdc7a69a_24108_1024x0_resize_box_3.png 1024w"
+	loading="lazy"
+	
+	
+		class="gallery-image" 
+		data-flex-grow="241"
+		data-flex-basis="578px"
+	
+></p>
+<p>A.质点经过 C 点的速率比 D 点大</p>
+<p>B.质点经过 A 点时的动能小于经过 D 点时的动能</p>
+<p>C.质点经过 D 点时的加速度比 B 点的加速度大</p>
+<p>D.质点从 B 到 E 过程中加速度方向与速度方向的夹角一直减小</p>
+<blockquote>
+<p>【答案】AD</p>
+<blockquote>
+<p>【详解】</p>
+<p>AB. 质点运动到 D 点时速度方向与加速度方向恰好互相垂直,速度沿 D 点轨迹的切线方向,则知加速度斜向左上方,合外力也斜向左上方,质点做匀变速曲线运动,合外力恒定不变,质点由 A 到 D 过程中,合外力做负功,由动能定理可得,C 点的速度比 D 点速度大,质点经过 A 点时的动能大于经过 D 点时的动能,故 A 正确,B 错误;</p>
+<p>C.质点做匀变速曲线运动,则有加速度不变,所以质点经过 D 点时的加速度与 B 点相同,故 C 错误;</p>
+<p>D.质点从 B 到 E 过程中加速度方向与速度方向的夹角一直减小,故 D 正确。故选 AD。</p>
+</blockquote>
+</blockquote>
+
+</section>
+
+
+    <footer class="article-footer">
+    
+    <section class="article-tags">
+        
+            <a href="/tags/%E5%85%B7%E4%BD%93%E5%86%85%E5%AE%B9/">具体内容</a>
+        
+    </section>
+
+
+    
+    <section class="article-copyright">
+        <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-copyright" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <circle cx="12" cy="12" r="9" />
+  <path d="M14.5 9a3.5 4 0 1 0 0 6" />
+</svg>
+
+
+
+        <span>Licensed under CC BY-NC-SA 4.0</span>
+    </section>
+    </footer>
+
+
+    
+        <link 
+                rel="stylesheet" 
+                href="https://cdn.jsdelivr.net/npm/katex@0.15.6/dist/katex.min.css"integrity="sha256-J&#43;iAE0sgH8QSz9hpcDxXIftnj65JEZgNhGcgReTTK9s="crossorigin="anonymous"
+            ><script 
+                src="https://cdn.jsdelivr.net/npm/katex@0.15.6/dist/katex.min.js"integrity="sha256-InsNdER1b2xUewP&#43;pKCUJpkhiqwHgqiPXDlIk7GzBu4="crossorigin="anonymous"
+                defer
+                >
+            </script><script 
+                src="https://cdn.jsdelivr.net/npm/katex@0.15.6/dist/contrib/auto-render.min.js"integrity="sha256-y39Mpg7V3D4lhBX4x6O0bUqTV4pSrfgwEfGKfxkOdgI="crossorigin="anonymous"
+                defer
+                >
+            </script><script>
+    window.addEventListener("DOMContentLoaded", () => {
+        renderMathInElement(document.querySelector(`.article-content`), {
+            delimiters: [
+                { left: "$$", right: "$$", display: true },
+                { left: "$", right: "$", display: false },
+                { left: "\\(", right: "\\)", display: false },
+                { left: "\\[", right: "\\]", display: true }
+            ],
+            ignoredClasses: ["gist"]
+        });})
+</script>
+    
+</article>
+
+    
+
+    
+
+<aside class="related-content--wrapper">
+    <h2 class="section-title">Related content</h2>
+    <div class="related-content">
+        <div class="flex article-list--tile">
+            
+                
+<article class="">
+    <a href="/p/%E7%9F%A5%E8%AF%86%E7%82%B94-%E5%85%B3%E8%81%94%E9%80%9F%E5%BA%A6%E6%A8%A1%E5%9E%8B/">
+        
+        
+
+        <div class="article-details">
+            <h2 class="article-title">关联速度模型</h2>
+        </div>
+    </a>
+</article>
+
+            
+                
+<article class="">
+    <a href="/p/%E7%9F%A5%E8%AF%86%E7%82%B93-%E5%B0%8F%E8%88%B9%E6%B8%A1%E6%B2%B3%E9%97%AE%E9%A2%98/">
+        
+        
+
+        <div class="article-details">
+            <h2 class="article-title">小船渡河问题</h2>
+        </div>
+    </a>
+</article>
+
+            
+                
+<article class="">
+    <a href="/p/%E7%9F%A5%E8%AF%86%E7%82%B92-%E8%BF%90%E5%8A%A8%E7%9A%84%E5%90%88%E6%88%90%E4%B8%8E%E5%88%86%E8%A7%A3/">
+        
+        
+
+        <div class="article-details">
+            <h2 class="article-title">运动的合成与分解</h2>
+        </div>
+    </a>
+</article>
+
+            
+        </div>
+    </div>
+</aside>
+
+     
+    
+        
+    <div class="disqus-container">
+    <div id="disqus_thread"></div>
+<script>
+    window.disqus_config = function () {
+    
+    
+    
+    };
+    (function() {
+        if (["localhost", "127.0.0.1"].indexOf(window.location.hostname) != -1) {
+            document.getElementById('disqus_thread').innerHTML = 'Disqus comments not available by default when the website is previewed locally.';
+            return;
+        }
+        var d = document, s = d.createElement('script'); s.async = true;
+        s.src = '//' + "hugo-theme-stack" + '.disqus.com/embed.js';
+        s.setAttribute('data-timestamp', +new Date());
+        (d.head || d.body).appendChild(s);
+    })();
+</script>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+<a href="https://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
+</div>
+
+<style>
+    .disqus-container {
+        background-color: var(--card-background);
+        border-radius: var(--card-border-radius);
+        box-shadow: var(--shadow-l1);
+        padding: var(--card-padding);
+    }
+</style>
+
+<script>
+    window.addEventListener('onColorSchemeChange', (e) => {
+        if (typeof DISQUS == 'object') {
+            DISQUS.reset({
+                reload: true
+            });
+        }
+    })
+</script>
+
+    
+
+    <footer class="site-footer">
+    <section class="copyright">
+        &copy; 
+        
+            2020 - 
+        
+        2023 Hugo Theme Stack Starter
+    </section>
+    
+    <section class="powerby">
+        Built with <a href="https://gohugo.io/" target="_blank" rel="noopener">Hugo</a> <br />
+        Theme <b><a href="https://github.com/CaiJimmy/hugo-theme-stack" target="_blank" rel="noopener" data-version="3.21.0">Stack</a></b> designed by <a href="https://jimmycai.com" target="_blank" rel="noopener">Jimmy</a>
+    </section>
+</footer>
+
+
+    
+<div class="pswp" tabindex="-1" role="dialog" aria-hidden="true">
+
+    
+    <div class="pswp__bg"></div>
+
+    
+    <div class="pswp__scroll-wrap">
+
+        
+        <div class="pswp__container">
+            <div class="pswp__item"></div>
+            <div class="pswp__item"></div>
+            <div class="pswp__item"></div>
+        </div>
+
+        
+        <div class="pswp__ui pswp__ui--hidden">
+
+            <div class="pswp__top-bar">
+
+                
+
+                <div class="pswp__counter"></div>
+
+                <button class="pswp__button pswp__button--close" title="Close (Esc)"></button>
+
+                <button class="pswp__button pswp__button--share" title="Share"></button>
+
+                <button class="pswp__button pswp__button--fs" title="Toggle fullscreen"></button>
+
+                <button class="pswp__button pswp__button--zoom" title="Zoom in/out"></button>
+
+                
+                
+                <div class="pswp__preloader">
+                    <div class="pswp__preloader__icn">
+                        <div class="pswp__preloader__cut">
+                            <div class="pswp__preloader__donut"></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="pswp__share-modal pswp__share-modal--hidden pswp__single-tap">
+                <div class="pswp__share-tooltip"></div>
+            </div>
+
+            <button class="pswp__button pswp__button--arrow--left" title="Previous (arrow left)">
+            </button>
+
+            <button class="pswp__button pswp__button--arrow--right" title="Next (arrow right)">
+            </button>
+
+            <div class="pswp__caption">
+                <div class="pswp__caption__center"></div>
+            </div>
+
+        </div>
+
+    </div>
+
+</div><script 
+                src="https://cdn.jsdelivr.net/npm/photoswipe@4.1.3/dist/photoswipe.min.js"integrity="sha256-ePwmChbbvXbsO02lbM3HoHbSHTHFAeChekF1xKJdleo="crossorigin="anonymous"
+                defer
+                >
+            </script><script 
+                src="https://cdn.jsdelivr.net/npm/photoswipe@4.1.3/dist/photoswipe-ui-default.min.js"integrity="sha256-UKkzOn/w1mBxRmLLGrSeyB4e1xbrp4xylgAWb3M42pU="crossorigin="anonymous"
+                defer
+                >
+            </script><link 
+                rel="stylesheet" 
+                href="https://cdn.jsdelivr.net/npm/photoswipe@4.1.3/dist/default-skin/default-skin.min.css"crossorigin="anonymous"
+            ><link 
+                rel="stylesheet" 
+                href="https://cdn.jsdelivr.net/npm/photoswipe@4.1.3/dist/photoswipe.min.css"crossorigin="anonymous"
+            >
+
+            </main>
+        </div>
+        <script 
+                src="https://cdn.jsdelivr.net/npm/node-vibrant@3.1.6/dist/vibrant.min.js"integrity="sha256-awcR2jno4kI5X0zL8ex0vi2z&#43;KMkF24hUW8WePSA9HM="crossorigin="anonymous"
+                
+                >
+            </script><script type="text/javascript" src="/ts/main.js" defer></script>
+<script>
+    (function () {
+        const customFont = document.createElement('link');
+        customFont.href = "https://fonts.googleapis.com/css2?family=Lato:wght@300;400;700&display=swap";
+
+        customFont.type = "text/css";
+        customFont.rel = "stylesheet";
+
+        document.head.appendChild(customFont);
+    }());
+</script>
+
+    </body>
+</html>

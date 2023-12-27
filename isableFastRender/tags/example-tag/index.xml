@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Example Tag on Hugo Theme Stack Starter</title>
+        <link>http://localhost:1414/tags/example-tag/</link>
+        <description>Recent content in Example Tag on Hugo Theme Stack Starter</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en-us</language>
+        <lastBuildDate>Sun, 06 Mar 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1414/tags/example-tag/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title></title>
+        <link>http://localhost:1414/p/%E4%BB%8B%E7%BB%8D%E7%BD%91%E7%AB%99%E7%9A%84%E5%86%99%E4%BD%9C%E6%96%B9%E5%BC%8F/</link>
+        <pubDate>Sun, 06 Mar 2022 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1414/p/%E4%BB%8B%E7%BB%8D%E7%BD%91%E7%AB%99%E7%9A%84%E5%86%99%E4%BD%9C%E6%96%B9%E5%BC%8F/</guid>
+        <description>&lt;p&gt;export XMODIFIERS=@im=fcitx
+export QT_IM_MODULE=fcitx
+export GTK_IM_MODULE=fcitx&lt;/p&gt;
+</description>
+        </item>
+        
+    </channel>
+</rss>
