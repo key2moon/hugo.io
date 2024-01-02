@@ -14,7 +14,7 @@ lastUpdated = "Jan 02, 2006 15:04 MST"
 
 [sidebar]
 emoji = "🍥"
-subtitle = "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+subtitle = "本网站主要介绍高中物理\"曲线运动\"一节的内容；\n同时在markdown一节中介绍了本网站的部署方法"
 
 [sidebar.avatar]
 enabled = true
