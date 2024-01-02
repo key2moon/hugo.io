@@ -2,14 +2,14 @@
 title: markdown基本语法
 description: 网站的写作方式
 slug: 网站的写作方式
-date: 2022-03-06 00:00:00+0000
+date: 2023-12-23 00:00:00+0000
 image:
 math: true
 categories:
     - 制作细节
 tags:
     - 制作细节
-weight: 0       # You can add weight to some posts to override the default sorting (date descending)
+weight: 1        # You can add weight to some posts to override the default sorting (date descending)
 ---
 
 

@@ -2,8 +2,8 @@
 title: 小船渡河问题
 description: 知识点3 小船渡河问题
 slug: 知识点3 小船渡河问题
-date: 2022-03-06 00:00:00+0000
-image:
+date: 2023-12-25 00:00:00+0000
+image: cover.jpg
 math: true
 categories:
     - 具体内容

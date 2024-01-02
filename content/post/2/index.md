@@ -2,8 +2,8 @@
 title: 运动的合成与分解
 description: 知识点2 运动的合成与分解
 slug: 知识点2 运动的合成与分解
-date: 2022-03-06 00:00:00+0000
-image:
+date: 2023-12-26 00:00:00+0000
+image: cover.png
 math: true
 categories:
     - 具体内容

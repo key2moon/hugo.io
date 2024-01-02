@@ -2,7 +2,7 @@
 title: 曲线运动
 description: 知识点1 曲线运动条件及特点
 slug: 知识点1 曲线运动条件及特点
-date: 2022-03-06 00:00:00+0000
+date: 2023-12-27 00:00:00+0000
 image: cover.jpg
 math: true
 categories:

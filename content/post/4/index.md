@@ -2,8 +2,8 @@
 title: 关联速度模型
 description: 知识点4 关联速度模型
 slug: 知识点4 关联速度模型
-date: 2022-03-06 00:00:00+0000
-image:
+date: 2023-12-24 00:00:00+0000
+image: cover.jpg
 math: true
 categories:
     - 具体内容
