@@ -10,6 +10,14 @@ categories:
 tags:
     - 制作细节
 weight: 1        # You can add weight to some posts to override the default sorting (date descending)
+
+links:
+  - title: GitHub-hugo-book
+    description: 介绍网站使用的hugo主题
+    website: https://github.com/hotosm/hugo-book
+  - title: Azure hugo
+    description: 演示如何创建 Hugo Web 应用程序并将其部署到 Azure 静态 Web 应用。
+    website: https://learn.microsoft.com/zh-cn/azure/static-web-apps/publish-hugo
 ---
 
 
@@ -155,4 +163,7 @@ weight: 1        # You can add weight to some posts to override the default sort
 \!\[压制视频]\(1.png "压制视频")
 
 ![压制视频](1.png "压制视频")
+
+关于`hugo book`主题的使用，参考：
+
 
