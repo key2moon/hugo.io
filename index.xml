@@ -1,0 +1,692 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>曲线运动</title><link>https://demo.stack.jimmycai.com/</link><description>Recent content on 曲线运动</description><generator>Hugo -- gohugo.io</generator><language>zh-cn</language><lastBuildDate>Wed, 27 Dec 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://demo.stack.jimmycai.com/index.xml" rel="self" type="application/rss+xml"/><item><title>曲线运动</title><link>https://demo.stack.jimmycai.com/p/%E7%9F%A5%E8%AF%86%E7%82%B91-%E6%9B%B2%E7%BA%BF%E8%BF%90%E5%8A%A8%E6%9D%A1%E4%BB%B6%E5%8F%8A%E7%89%B9%E7%82%B9/</link><pubDate>Wed, 27 Dec 2023 00:00:00 +0000</pubDate><guid>https://demo.stack.jimmycai.com/p/%E7%9F%A5%E8%AF%86%E7%82%B91-%E6%9B%B2%E7%BA%BF%E8%BF%90%E5%8A%A8%E6%9D%A1%E4%BB%B6%E5%8F%8A%E7%89%B9%E7%82%B9/</guid><description>&lt;img src="https://demo.stack.jimmycai.com/p/%E7%9F%A5%E8%AF%86%E7%82%B91-%E6%9B%B2%E7%BA%BF%E8%BF%90%E5%8A%A8%E6%9D%A1%E4%BB%B6%E5%8F%8A%E7%89%B9%E7%82%B9/cover.jpg" alt="Featured image of post 曲线运动" />&lt;p>&lt;img src="https://demo.stack.jimmycai.com/p/%E7%9F%A5%E8%AF%86%E7%82%B91-%E6%9B%B2%E7%BA%BF%E8%BF%90%E5%8A%A8%E6%9D%A1%E4%BB%B6%E5%8F%8A%E7%89%B9%E7%82%B9/cover.jpg"
+width="300"
+height="168"
+srcset="https://demo.stack.jimmycai.com/p/%E7%9F%A5%E8%AF%86%E7%82%B91-%E6%9B%B2%E7%BA%BF%E8%BF%90%E5%8A%A8%E6%9D%A1%E4%BB%B6%E5%8F%8A%E7%89%B9%E7%82%B9/cover_hu01c44b2460feafbdd18a11c6547e6e11_6803_480x0_resize_q75_box.jpg 480w, https://demo.stack.jimmycai.com/p/%E7%9F%A5%E8%AF%86%E7%82%B91-%E6%9B%B2%E7%BA%BF%E8%BF%90%E5%8A%A8%E6%9D%A1%E4%BB%B6%E5%8F%8A%E7%89%B9%E7%82%B9/cover_hu01c44b2460feafbdd18a11c6547e6e11_6803_1024x0_resize_q75_box.jpg 1024w"
+loading="lazy"
+alt="经特殊手法拍摄的星轨就是星星的曲线运动，图片来自wiki"
+class="gallery-image"
+data-flex-grow="178"
+data-flex-basis="428px"
+>&lt;/p>
+&lt;h2 id="基础知识梳理">基础知识梳理&lt;/h2>
+&lt;h3 id="知识点1-曲线运动条件及特点">知识点1 曲线运动条件及特点&lt;/h3>
+&lt;h4 id="速度的方向">速度的方向&lt;/h4>
+&lt;p>速度的方向: 质点在某一点的速度方向,沿曲线在这一点的&lt;code>切线方向&lt;/code>。&lt;/p>
+&lt;h4 id="运动的性质">运动的性质&lt;/h4>
+&lt;p>运动的性质:做曲线运动的物体,速度的方向时刻在改变,所以曲线运动一定是&lt;code>变速&lt;/code>运动。&lt;/p>
+&lt;h4 id="物体做曲线运动的条件">物体做曲线运动的条件&lt;/h4>
+&lt;p>物体做曲线运动的条件:物体所受合力的方向与它的速度方向不在同一条直线上或它的加速度方向与速度方向不在同一条直线上。&lt;/p>
+&lt;h4 id="运动轨迹的判断">运动轨迹的判断&lt;/h4>
+&lt;p>(1)若物体所受合力方向与速度方向在同一直线上,则物体做直线运动;若物体所受合力方向与速度方向不在同一直线上,则物体做曲线运动。&lt;/p>
+&lt;p>(2)物体做曲线运动时,合力指向轨迹的凹侧;运动轨迹在速度方向与合力方向所夹的区间。可速记为“无力不弯,力速两边”。&lt;/p>
+&lt;h3 id="知识点1-曲线运动速率的变化">知识点1 曲线运动速率的变化&lt;/h3>
+&lt;p>合力方向与速度方向的&lt;code>夹角&lt;/code>和&lt;code>速率变化&lt;/code>的关系&lt;/p>
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th>锐角&lt;/th>
+&lt;th>直角&lt;/th>
+&lt;th>钝角&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td>速率增大&lt;/td>
+&lt;td>速率不变&lt;/td>
+&lt;td>速率减小&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
+&lt;h2 id="题型归纳">题型归纳&lt;/h2>
+&lt;h3 id="考向1-曲线运动条件及特点">考向1 曲线运动条件及特点&lt;/h3>
+&lt;h4 id="第1题">第1题&lt;/h4>
+&lt;ol>
+&lt;li>关于运动和力,以下说法正确的是( )&lt;/li>
+&lt;/ol>
+&lt;p>A.物体在不垂直于速度方向的合力作用下,速度大小可能一直不变&lt;/p>
+&lt;p>B.物体受到变化的合力作用时,它的速度大小一定改变&lt;/p>
+&lt;p>C.物体受到的力不为恒力,物体一定做曲线运动&lt;/p>
+&lt;p>D.初速度不为零,并且受到与初速度方向不在同一条直线的外力作用,物体一定做曲线运动&lt;/p>
+&lt;blockquote>
+&lt;p>【答案】D&lt;/p>
+&lt;blockquote>
+&lt;p>【详解】&lt;/p>
+&lt;p>A.物体在不垂直于速度方向的合力作用下,由于合力对物体做功,所以速度大小一定变化,故A错误;&lt;/p>
+&lt;p>B.物体受到变化的合力作用时,它的速度大小可以不改变,比如匀速圆周运动,故 B 错误;&lt;/p>
+&lt;p>C.物体受到的力不为恒力,在变力的作用下不一定做曲线运动,如汽车恒定功率启动,合力不断变化,但是汽车做直线运动,故 C 错误;&lt;/p>
+&lt;p>D.只有速度方向与合外力的方向不在一条直线上时,物体才做曲线运动,故 D 正确。&lt;/p>
+&lt;/blockquote>
+&lt;/blockquote>
+&lt;h4 id="第2题">第2题&lt;/h4>
+&lt;ol start="2">
+&lt;li>“落叶球”是足球比赛中任意球的一种踢法,如图所示,这是某运动员主罚任意球时踢出快速旋转的“落叶球”在空中运动的轨迹跟正常飞行轨迹相比,“落叶球”会更早地向下落回地面。对“落叶球”在飞行过程中的分析正确的是( )&lt;/li>
+&lt;/ol>
+&lt;p>&lt;img src="https://demo.stack.jimmycai.com/p/%E7%9F%A5%E8%AF%86%E7%82%B91-%E6%9B%B2%E7%BA%BF%E8%BF%90%E5%8A%A8%E6%9D%A1%E4%BB%B6%E5%8F%8A%E7%89%B9%E7%82%B9/2.png"
+width="700"
+height="366"
+srcset="https://demo.stack.jimmycai.com/p/%E7%9F%A5%E8%AF%86%E7%82%B91-%E6%9B%B2%E7%BA%BF%E8%BF%90%E5%8A%A8%E6%9D%A1%E4%BB%B6%E5%8F%8A%E7%89%B9%E7%82%B9/2_hudb432882413b7dfd8175897937e537e2_296441_480x0_resize_box_3.png 480w, https://demo.stack.jimmycai.com/p/%E7%9F%A5%E8%AF%86%E7%82%B91-%E6%9B%B2%E7%BA%BF%E8%BF%90%E5%8A%A8%E6%9D%A1%E4%BB%B6%E5%8F%8A%E7%89%B9%E7%82%B9/2_hudb432882413b7dfd8175897937e537e2_296441_1024x0_resize_box_3.png 1024w"
+loading="lazy"
+alt="落叶球"
+class="gallery-image"
+data-flex-grow="191"
+data-flex-basis="459px"
+>&lt;/p>
+&lt;p>A.“落叶球”在空中的运动轨迹是对称的&lt;/p>
+&lt;p>B.“落叶球”的更早下落是因为在运动过程中受到了指向轨迹内侧的空气作用力&lt;/p>
+&lt;p>C.“落叶球”的更早下落是因为在运动过程中受到了沿切线方向的空气阻力&lt;/p>
+&lt;p>D.“落叶球”在最高点的瞬时速度为零&lt;/p>
+&lt;blockquote>
+&lt;p>【答案】B&lt;/p>
+&lt;blockquote>
+&lt;p>【详解】&lt;/p>
+&lt;p>A.“落叶球”是快速旋转的球,所以在空中的轨迹不是对称的,A 错误;&lt;/p>
+&lt;p>BC.根据做曲线运动的条件,“落叶球”的更早下落是因为在运动过程中受到了指向轨迹内侧的空气作用力,C 错误 B 正确;&lt;/p>
+&lt;p>D.“落叶球”在最高点的竖直速度为零,水平速度不为零,所以瞬时速度不为零,D 错误。故选 B。&lt;/p>
+&lt;/blockquote>
+&lt;/blockquote>
+&lt;h3 id="考向2-曲线运动速率的变化">考向2 曲线运动速率的变化&lt;/h3>
+&lt;h4 id="第3题">第3题&lt;/h4>
+&lt;p>3.双人滑运动员在光滑的水平冰面上做表演,甲运动员给乙运动员一个水平恒力$F$,乙运动员在冰面上完成了一段优美的弧线$MN$。$v_M$与$v_N$正好成90°角,则此过程中,乙运动员受到甲运动员的恒力可能是图中的( )&lt;/p>
+&lt;p>&lt;img src="https://demo.stack.jimmycai.com/p/%E7%9F%A5%E8%AF%86%E7%82%B91-%E6%9B%B2%E7%BA%BF%E8%BF%90%E5%8A%A8%E6%9D%A1%E4%BB%B6%E5%8F%8A%E7%89%B9%E7%82%B9/3.png"
+width="458"
+height="377"
+srcset="https://demo.stack.jimmycai.com/p/%E7%9F%A5%E8%AF%86%E7%82%B91-%E6%9B%B2%E7%BA%BF%E8%BF%90%E5%8A%A8%E6%9D%A1%E4%BB%B6%E5%8F%8A%E7%89%B9%E7%82%B9/3_hu4ac2525f8a12d8090f9979bdcf43e951_13984_480x0_resize_box_3.png 480w, https://demo.stack.jimmycai.com/p/%E7%9F%A5%E8%AF%86%E7%82%B91-%E6%9B%B2%E7%BA%BF%E8%BF%90%E5%8A%A8%E6%9D%A1%E4%BB%B6%E5%8F%8A%E7%89%B9%E7%82%B9/3_hu4ac2525f8a12d8090f9979bdcf43e951_13984_1024x0_resize_box_3.png 1024w"
+loading="lazy"
+class="gallery-image"
+data-flex-grow="121"
+data-flex-basis="291px"
+>&lt;/p>
+&lt;p>A. $F_1$&lt;/p>
+&lt;p>B. $F_2$&lt;/p>
+&lt;p>C. $F_3$&lt;/p>
+&lt;p>D. $F_4$&lt;/p>
+&lt;blockquote>
+&lt;p>【答案】C&lt;/p>
+&lt;blockquote>
+&lt;p>【详解】根据图示物体由 M 向 N 做曲线运动,物体向上的速度减小,同时向右的速度增大,故合外力的方向指向图 $F_2$ 水平线下方,故 $F_3$ 的方向可能是正确的。故选 C。&lt;/p>
+&lt;/blockquote>
+&lt;/blockquote>
+&lt;h4 id="第4题">第4题&lt;/h4>
+&lt;p>4.图示为质点做匀变速运动的轨迹示意图,质点运动到D点时速度方向与加速度方向恰好垂直.则质点从A点运动到E点的过程中,下列说法中正确的是( )&lt;/p>
+&lt;p>&lt;img src="https://demo.stack.jimmycai.com/p/%E7%9F%A5%E8%AF%86%E7%82%B91-%E6%9B%B2%E7%BA%BF%E8%BF%90%E5%8A%A8%E6%9D%A1%E4%BB%B6%E5%8F%8A%E7%89%B9%E7%82%B9/4.png"
+width="685"
+height="284"
+srcset="https://demo.stack.jimmycai.com/p/%E7%9F%A5%E8%AF%86%E7%82%B91-%E6%9B%B2%E7%BA%BF%E8%BF%90%E5%8A%A8%E6%9D%A1%E4%BB%B6%E5%8F%8A%E7%89%B9%E7%82%B9/4_hub6d3ff8e66e7883c948e4942bdc7a69a_24108_480x0_resize_box_3.png 480w, https://demo.stack.jimmycai.com/p/%E7%9F%A5%E8%AF%86%E7%82%B91-%E6%9B%B2%E7%BA%BF%E8%BF%90%E5%8A%A8%E6%9D%A1%E4%BB%B6%E5%8F%8A%E7%89%B9%E7%82%B9/4_hub6d3ff8e66e7883c948e4942bdc7a69a_24108_1024x0_resize_box_3.png 1024w"
+loading="lazy"
+class="gallery-image"
+data-flex-grow="241"
+data-flex-basis="578px"
+>&lt;/p>
+&lt;p>A.质点经过 C 点的速率比 D 点大&lt;/p>
+&lt;p>B.质点经过 A 点时的动能小于经过 D 点时的动能&lt;/p>
+&lt;p>C.质点经过 D 点时的加速度比 B 点的加速度大&lt;/p>
+&lt;p>D.质点从 B 到 E 过程中加速度方向与速度方向的夹角一直减小&lt;/p>
+&lt;blockquote>
+&lt;p>【答案】AD&lt;/p>
+&lt;blockquote>
+&lt;p>【详解】&lt;/p>
+&lt;p>AB. 质点运动到 D 点时速度方向与加速度方向恰好互相垂直,速度沿 D 点轨迹的切线方向,则知加速度斜向左上方,合外力也斜向左上方,质点做匀变速曲线运动,合外力恒定不变,质点由 A 到 D 过程中,合外力做负功,由动能定理可得,C 点的速度比 D 点速度大,质点经过 A 点时的动能大于经过 D 点时的动能,故 A 正确,B 错误;&lt;/p>
+&lt;p>C.质点做匀变速曲线运动,则有加速度不变,所以质点经过 D 点时的加速度与 B 点相同,故 C 错误;&lt;/p>
+&lt;p>D.质点从 B 到 E 过程中加速度方向与速度方向的夹角一直减小,故 D 正确。故选 AD。&lt;/p>
+&lt;/blockquote>
+&lt;/blockquote></description></item><item><title>运动的合成与分解</title><link>https://demo.stack.jimmycai.com/p/%E7%9F%A5%E8%AF%86%E7%82%B92-%E8%BF%90%E5%8A%A8%E7%9A%84%E5%90%88%E6%88%90%E4%B8%8E%E5%88%86%E8%A7%A3/</link><pubDate>Tue, 26 Dec 2023 00:00:00 +0000</pubDate><guid>https://demo.stack.jimmycai.com/p/%E7%9F%A5%E8%AF%86%E7%82%B92-%E8%BF%90%E5%8A%A8%E7%9A%84%E5%90%88%E6%88%90%E4%B8%8E%E5%88%86%E8%A7%A3/</guid><description>&lt;img src="https://demo.stack.jimmycai.com/p/%E7%9F%A5%E8%AF%86%E7%82%B92-%E8%BF%90%E5%8A%A8%E7%9A%84%E5%90%88%E6%88%90%E4%B8%8E%E5%88%86%E8%A7%A3/cover.png" alt="Featured image of post 运动的合成与分解" />&lt;h2 id="基础知识梳理">基础知识梳理&lt;/h2>
+&lt;h3 id="知识点1-合运动轨迹和性质的判断方法">知识点1 合运动轨迹和性质的判断方法&lt;/h3>
+&lt;h4 id="1合运动轨迹和性质的判断方法">1.合运动轨迹和性质的判断方法&lt;/h4>
+&lt;p>标准:看合初速度方向与合加速度(或合外力)方向是否&lt;code>共线&lt;/code>&lt;/p>
+&lt;ol>
+&lt;li>
+&lt;p>若合加速度的方向与合初速度的方向在同一直线上,则为直线运动,否则为曲线运动。&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>若合加速度不变,则为匀变速运动;若合加速度(大小或方向)变化,则为非匀变速运动。&lt;/p>
+&lt;/li>
+&lt;/ol>
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th>两个互成角度的分运动&lt;/th>
+&lt;th>合运动的性质&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td>两个匀速 直线运动&lt;/td>
+&lt;td>匀速直线运动&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>一个匀速直线运动、一个匀变速直线运动&lt;/td>
+&lt;td>匀变速曲线运动&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>两个初速度为零的匀加速直线运动&lt;/td>
+&lt;td>匀加速直线运动&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>两个初速度不为零的匀变速直线运动&lt;/td>
+&lt;td>如果$v_合$与$a_合$共线,为匀变速直线运动;如果$v_合$与$a_合$不共线,为匀变速曲线运动&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
+&lt;h3 id="知识点2-合运动与分运动的关系">知识点2 合运动与分运动的关系&lt;/h3>
+&lt;h4 id="合运动与分运动的关系">合运动与分运动的关系&lt;/h4>
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th>&lt;/th>
+&lt;th>&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td>等时性&lt;/td>
+&lt;td>合运动与分运动同时开始,同时进行,同时结束&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>独立性&lt;/td>
+&lt;td>各分运动相互独立,不受其他运动影响&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>等效性&lt;/td>
+&lt;td>各分运动的规律叠加起来与合运动的规律有完全相同的效果&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
+&lt;h2 id="题型归纳">题型归纳&lt;/h2>
+&lt;h3 id="考向1-生活中的运动合成与分解">考向1 生活中的运动合成与分解&lt;/h3>
+&lt;h4 id="第1题">第1题&lt;/h4>
+&lt;p>1.如图甲所示,在长约 1m 的一端封闭的玻璃管中注满清水,水中放一个圆柱形的红蜡块 R(圆柱体的直径略小于玻璃管的内径,轻重适宜,使它能在玻璃管内的水中匀速上升),将玻璃管的开口端用胶塞塞紧.将此玻璃管迅速竖直倒置(如图乙所示) ,红蜡块 R 就沿玻璃管由管口 A 匀速上升到管底 B.若在将玻璃管竖直倒置、红蜡块刚从 A 端开始匀速上升的同时,将玻璃管由静止开始水平向右匀加速移动(如图丙所示) ,直至红蜡块上升到管底 B 的位置(如图丁所示).红蜡块与玻璃管间的摩擦很小,可以忽略不计,在这一过程中相对于地面而言()&lt;/p>
+&lt;p>&lt;img src="https://demo.stack.jimmycai.com/p/%E7%9F%A5%E8%AF%86%E7%82%B92-%E8%BF%90%E5%8A%A8%E7%9A%84%E5%90%88%E6%88%90%E4%B8%8E%E5%88%86%E8%A7%A3/1.png"
+width="398"
+height="297"
+srcset="https://demo.stack.jimmycai.com/p/%E7%9F%A5%E8%AF%86%E7%82%B92-%E8%BF%90%E5%8A%A8%E7%9A%84%E5%90%88%E6%88%90%E4%B8%8E%E5%88%86%E8%A7%A3/1_hu4a166e9951fd23a8f7ca112b898de173_19732_480x0_resize_box_3.png 480w, https://demo.stack.jimmycai.com/p/%E7%9F%A5%E8%AF%86%E7%82%B92-%E8%BF%90%E5%8A%A8%E7%9A%84%E5%90%88%E6%88%90%E4%B8%8E%E5%88%86%E8%A7%A3/1_hu4a166e9951fd23a8f7ca112b898de173_19732_1024x0_resize_box_3.png 1024w"
+loading="lazy"
+class="gallery-image"
+data-flex-grow="134"
+data-flex-basis="321px"
+>&lt;/p>
+&lt;p>A.红蜡块做速度大小、方向均不变的直线运动&lt;/p>
+&lt;p>B.红蜡块做速度大小变化的直线运动&lt;/p>
+&lt;p>C.红蜡块做加速度大小变化的曲线运动&lt;/p>
+&lt;p>D.红蜡块做加速度大小、方向均不变的曲线运动&lt;/p>
+&lt;blockquote>
+&lt;blockquote>
+&lt;p>【答案】D&lt;/p>
+&lt;p>【详解】蜡块在水平方向上做匀加速直线运动,竖直方向上做匀速直线运动,合加速度沿水平方向上,且大小不变,与合速度的方向不在同一条直线上,所以合运动为曲线运动,加速度保持不变.故 D 正确,ABC错误.故选 D.&lt;/p>
+&lt;/blockquote>
+&lt;/blockquote>
+&lt;h4 id="第2题">第2题&lt;/h4>
+&lt;p>2.跳伞表演是观赏性很强体育项目,当运动员从直升飞机由静止跳下后,在下落过程中会受到水平风力的影响,如图所示,下列说法中正确的是( )&lt;/p>
+&lt;p>&lt;img src="https://demo.stack.jimmycai.com/p/%E7%9F%A5%E8%AF%86%E7%82%B92-%E8%BF%90%E5%8A%A8%E7%9A%84%E5%90%88%E6%88%90%E4%B8%8E%E5%88%86%E8%A7%A3/2.png"
+width="176"
+height="274"
+srcset="https://demo.stack.jimmycai.com/p/%E7%9F%A5%E8%AF%86%E7%82%B92-%E8%BF%90%E5%8A%A8%E7%9A%84%E5%90%88%E6%88%90%E4%B8%8E%E5%88%86%E8%A7%A3/2_hu3b84731e2e03c1ffe24ed2841f2f0f3d_55812_480x0_resize_box_3.png 480w, https://demo.stack.jimmycai.com/p/%E7%9F%A5%E8%AF%86%E7%82%B92-%E8%BF%90%E5%8A%A8%E7%9A%84%E5%90%88%E6%88%90%E4%B8%8E%E5%88%86%E8%A7%A3/2_hu3b84731e2e03c1ffe24ed2841f2f0f3d_55812_1024x0_resize_box_3.png 1024w"
+loading="lazy"
+class="gallery-image"
+data-flex-grow="64"
+data-flex-basis="154px"
+>&lt;/p>
+&lt;p>A.风力越大,运动员下落时间越长&lt;/p>
+&lt;p>B.风力越大,运动员着地速度越大&lt;/p>
+&lt;p>C.运动员下落时间与风力无关&lt;/p>
+&lt;p>D.运动员着地速度与风力无关&lt;/p>
+&lt;blockquote>
+&lt;p>【答案】BC&lt;/p>
+&lt;blockquote>
+&lt;p>【详解】&lt;/p>
+&lt;p>AC.运动员同时参与两个分运动,水平方向随空气匀速运动,竖直方向在降落伞张开前先加速,降落伞张开后先减速后匀速,由于竖直分运动不受水平分运动的干扰,故运动时间与风速无关,故 A 错误,&lt;/p>
+&lt;p>C 正确;&lt;/p>
+&lt;p>BD.运动员落地速度由水平分速度和竖直分速度合成,水平分速度由S风速决定,故风速越大,合速度越大,故 B 正确,D 错误。故选 BC。&lt;/p>
+&lt;/blockquote>
+&lt;/blockquote>
+&lt;h3 id="考向2-有关运动合成与分解的图像问题">考向2 有关运动合成与分解的图像问题&lt;/h3>
+&lt;h4 id="第3题">第3题&lt;/h4>
+&lt;p>3.潜艇从海水的高密度区驶入低密度区。浮力急剧减小的过程称为“掉深”。如图 a 所示,某潜艇在高密度区水平向右匀速航行, t = 0 时,该捞艇开始“掉深”,潜艇“掉深”后其竖直方向的速度 $v_y$ ,随时间变化的图像如图 b,水平速度 $v_x$ 保持不变,若以水平向右为 x 轴,竖直向下为 y 轴,则带艇“掉深”后的 0 ~ 30s 内。能大致表示其运动轨迹的图形是( )&lt;/p>
+&lt;p>&lt;img src="https://demo.stack.jimmycai.com/p/%E7%9F%A5%E8%AF%86%E7%82%B92-%E8%BF%90%E5%8A%A8%E7%9A%84%E5%90%88%E6%88%90%E4%B8%8E%E5%88%86%E8%A7%A3/3.png"
+width="1057"
+height="263"
+srcset="https://demo.stack.jimmycai.com/p/%E7%9F%A5%E8%AF%86%E7%82%B92-%E8%BF%90%E5%8A%A8%E7%9A%84%E5%90%88%E6%88%90%E4%B8%8E%E5%88%86%E8%A7%A3/3_hubccfa7a560c9991e7ffb1d8d8c7ea0f9_89793_480x0_resize_box_3.png 480w, https://demo.stack.jimmycai.com/p/%E7%9F%A5%E8%AF%86%E7%82%B92-%E8%BF%90%E5%8A%A8%E7%9A%84%E5%90%88%E6%88%90%E4%B8%8E%E5%88%86%E8%A7%A3/3_hubccfa7a560c9991e7ffb1d8d8c7ea0f9_89793_1024x0_resize_box_3.png 1024w"
+loading="lazy"
+class="gallery-image"
+data-flex-grow="401"
+data-flex-basis="964px"
+>&lt;/p>
+&lt;p>&lt;img src="https://demo.stack.jimmycai.com/p/%E7%9F%A5%E8%AF%86%E7%82%B92-%E8%BF%90%E5%8A%A8%E7%9A%84%E5%90%88%E6%88%90%E4%B8%8E%E5%88%86%E8%A7%A3/4.png"
+width="785"
+height="223"
+srcset="https://demo.stack.jimmycai.com/p/%E7%9F%A5%E8%AF%86%E7%82%B92-%E8%BF%90%E5%8A%A8%E7%9A%84%E5%90%88%E6%88%90%E4%B8%8E%E5%88%86%E8%A7%A3/4_huebe66c7600c6ad67fbc4df90c277b9a9_15042_480x0_resize_box_3.png 480w, https://demo.stack.jimmycai.com/p/%E7%9F%A5%E8%AF%86%E7%82%B92-%E8%BF%90%E5%8A%A8%E7%9A%84%E5%90%88%E6%88%90%E4%B8%8E%E5%88%86%E8%A7%A3/4_huebe66c7600c6ad67fbc4df90c277b9a9_15042_1024x0_resize_box_3.png 1024w"
+loading="lazy"
+class="gallery-image"
+data-flex-grow="352"
+data-flex-basis="844px"
+>&lt;/p>
+&lt;p>&lt;img src="https://demo.stack.jimmycai.com/p/%E7%9F%A5%E8%AF%86%E7%82%B92-%E8%BF%90%E5%8A%A8%E7%9A%84%E5%90%88%E6%88%90%E4%B8%8E%E5%88%86%E8%A7%A3/5.png"
+width="841"
+height="245"
+srcset="https://demo.stack.jimmycai.com/p/%E7%9F%A5%E8%AF%86%E7%82%B92-%E8%BF%90%E5%8A%A8%E7%9A%84%E5%90%88%E6%88%90%E4%B8%8E%E5%88%86%E8%A7%A3/5_hu009ea4479dabeb3ff8a2fd386e2db955_17171_480x0_resize_box_3.png 480w, https://demo.stack.jimmycai.com/p/%E7%9F%A5%E8%AF%86%E7%82%B92-%E8%BF%90%E5%8A%A8%E7%9A%84%E5%90%88%E6%88%90%E4%B8%8E%E5%88%86%E8%A7%A3/5_hu009ea4479dabeb3ff8a2fd386e2db955_17171_1024x0_resize_box_3.png 1024w"
+loading="lazy"
+class="gallery-image"
+data-flex-grow="343"
+data-flex-basis="823px"
+>&lt;/p>
+&lt;blockquote>
+&lt;p>【答案】B&lt;/p>
+&lt;blockquote>
+&lt;p>【详解】根据题意可知,潜艇在 x 轴方向上做匀速直线运动, y 轴方向上先做匀加速直线运动,再做匀减速直线运动,则 x − y 运动轨迹的图形,在 x 轴上取相邻距离相等的几段距离,则时间相等, y 轴上下降的距离先增大后减小。故选 B。&lt;/p>
+&lt;/blockquote>
+&lt;/blockquote>
+&lt;h4 id="第4题">第4题&lt;/h4>
+&lt;p>4.2023年春季,和平区五大道的海棠花竞相绽放,绵延上千米的美景,吸引无数游人纷至沓来,成为春日津城最红打卡地。电视台摄制组为了拍到更广、更美的景色,采用了无人机拍摄的方法。现通过传感器将某台无人机上升向前拍摄的飞行过程转化为竖直向上的速度 $v_y$ 及水平方向速度 $v_x$ 与飞行时间 t 关系图象,如图甲、乙所示。图乙中 $t_2-t_3$ 段图象平行于 t 轴,则下列说法正确的是( )&lt;/p>
+&lt;p>&lt;img src="https://demo.stack.jimmycai.com/p/%E7%9F%A5%E8%AF%86%E7%82%B92-%E8%BF%90%E5%8A%A8%E7%9A%84%E5%90%88%E6%88%90%E4%B8%8E%E5%88%86%E8%A7%A3/6.png"
+width="728"
+height="197"
+srcset="https://demo.stack.jimmycai.com/p/%E7%9F%A5%E8%AF%86%E7%82%B92-%E8%BF%90%E5%8A%A8%E7%9A%84%E5%90%88%E6%88%90%E4%B8%8E%E5%88%86%E8%A7%A3/6_hu4860290b3bed33d2973c286e65d0a677_41721_480x0_resize_box_3.png 480w, https://demo.stack.jimmycai.com/p/%E7%9F%A5%E8%AF%86%E7%82%B92-%E8%BF%90%E5%8A%A8%E7%9A%84%E5%90%88%E6%88%90%E4%B8%8E%E5%88%86%E8%A7%A3/6_hu4860290b3bed33d2973c286e65d0a677_41721_1024x0_resize_box_3.png 1024w"
+loading="lazy"
+class="gallery-image"
+data-flex-grow="369"
+data-flex-basis="886px"
+>&lt;/p>
+&lt;p>A.无人机在 $t_1$ 时刻处于超重状态&lt;/p>
+&lt;p>B.无人机在 $0$~$t_2$ 这段时间内沿直线飞行&lt;/p>
+&lt;p>C.无人机在 $t_2$ 时刻上升至最高点&lt;/p>
+&lt;p>D.无人机在 $t_2$~$t_3$ 时间内做匀变速运动&lt;/p>
+&lt;blockquote>
+&lt;p>【答案】AD&lt;/p>
+&lt;blockquote>
+&lt;p>【详解】&lt;/p>
+&lt;p>A.由图像可知,无人机在 $t_1$ 时刻,竖直方向做匀加速直线运动,水平方向做匀减速直线运动,无人机有竖直向上的加速度,则可知无人机此刻处于超重状态,故 A 正确;&lt;/p>
+&lt;p>B.由图像可知,无人机在 $0$~$t_2$ 这段时间内,竖直方向做匀加速直线运动,水平方向做匀减速直线运动,那么合加速度方向与初速度方向不共线,所以无人机做曲线运动,即无人机曲线上升,故 B 错误;&lt;/p>
+&lt;p>C.无人机在竖直方向上,先向上做匀加速,后向上做匀减速,直至竖直方向的速度减为零,无人机才上升至最高点,而 $t_2$ 时刻是无人机加速向上结束的时刻,因此 $t_2$ 时刻无人机并未上升至最高点,故 C 错误;&lt;/p>
+&lt;p>D.由图像可知,无人机在 $t_2$~$t_3$ 时间内,竖直方向做匀减速直线运动,水平方向做匀速直线运动,只有竖直方向有加速度且恒定,因此可知无人机在 $t_2$~$t_3$ 时间内做匀变速运动,故 D 正确。故选 AD。&lt;/p>
+&lt;/blockquote>
+&lt;/blockquote></description></item><item><title>小船渡河问题</title><link>https://demo.stack.jimmycai.com/p/%E7%9F%A5%E8%AF%86%E7%82%B93-%E5%B0%8F%E8%88%B9%E6%B8%A1%E6%B2%B3%E9%97%AE%E9%A2%98/</link><pubDate>Mon, 25 Dec 2023 00:00:00 +0000</pubDate><guid>https://demo.stack.jimmycai.com/p/%E7%9F%A5%E8%AF%86%E7%82%B93-%E5%B0%8F%E8%88%B9%E6%B8%A1%E6%B2%B3%E9%97%AE%E9%A2%98/</guid><description>&lt;img src="https://demo.stack.jimmycai.com/p/%E7%9F%A5%E8%AF%86%E7%82%B93-%E5%B0%8F%E8%88%B9%E6%B8%A1%E6%B2%B3%E9%97%AE%E9%A2%98/cover.jpg" alt="Featured image of post 小船渡河问题" />&lt;h2 id="基础知识梳理">基础知识梳理&lt;/h2>
+&lt;h3 id="知识点-小船渡河的两种方式">知识点 小船渡河的两种方式&lt;/h3>
+&lt;h4 id="船的实际运动">船的实际运动&lt;/h4>
+&lt;p>船的实际运动:是水流的运动和船相对静水的运动的合运动。&lt;/p>
+&lt;h4 id="三种相关速度">三种相关速度&lt;/h4>
+&lt;p>船在静水中的速度 $v_船$、水的流速 $v_水$ 、船的实际速度 $v$。&lt;/p>
+&lt;h4 id="两种渡河方式">两种渡河方式&lt;/h4>
+&lt;h5 id="渡河时间最短">渡河时间最短&lt;/h5>
+&lt;p>当船头垂直河岸时,渡河时间最短,最短时间$t_min=\frac{d}{v_船}$&lt;/p>
+&lt;h5 id="渡河位移最短">渡河位移最短&lt;/h5>
+&lt;p>当$v_水&amp;lt;v_船$时,如果满足$v_水-v_船 \cos θ=0$,渡河位移最短,$x_{min}=d$&lt;/p>
+&lt;p>当 $v_水&amp;gt;v_船$ 时,如果船头方向(即 $v_船$方向)与合速度方向垂直,渡河位移最短,最短渡河位移为$x_{min} =\frac{d v_水}{v_船}$&lt;/p>
+&lt;h2 id="题型归纳">题型归纳&lt;/h2>
+&lt;h3 id="考向1-小船渡河最短时间问题">考向1 小船渡河最短时间问题&lt;/h3>
+&lt;h4 id="第1题">第1题&lt;/h4>
+&lt;ol>
+&lt;li>船在静水中的速度与时间的关系如图甲所示,河水的流速与船离河岸的距离的变化关系如图乙所示,河
+宽为 300 m ,则当船沿渡河时间最短的路径渡河时( )&lt;/li>
+&lt;/ol>
+&lt;p>&lt;img src="https://demo.stack.jimmycai.com/p/%E7%9F%A5%E8%AF%86%E7%82%B93-%E5%B0%8F%E8%88%B9%E6%B8%A1%E6%B2%B3%E9%97%AE%E9%A2%98/1.png"
+width="764"
+height="246"
+srcset="https://demo.stack.jimmycai.com/p/%E7%9F%A5%E8%AF%86%E7%82%B93-%E5%B0%8F%E8%88%B9%E6%B8%A1%E6%B2%B3%E9%97%AE%E9%A2%98/1_hu6be559fbbd064e39a383061a186892bd_32192_480x0_resize_box_3.png 480w, https://demo.stack.jimmycai.com/p/%E7%9F%A5%E8%AF%86%E7%82%B93-%E5%B0%8F%E8%88%B9%E6%B8%A1%E6%B2%B3%E9%97%AE%E9%A2%98/1_hu6be559fbbd064e39a383061a186892bd_32192_1024x0_resize_box_3.png 1024w"
+loading="lazy"
+class="gallery-image"
+data-flex-grow="310"
+data-flex-basis="745px"
+>&lt;/p>
+&lt;p>A.船渡河的最短时间是 60 s&lt;/p>
+&lt;p>B.要使船以最短时间渡河,船在行驶过程中,船头必须始终与河岸垂直&lt;/p>
+&lt;p>C.船在河水中航行的轨迹是一条直线&lt;/p>
+&lt;p>D.船在河水中的最大速度是 7 m/s&lt;/p>
+&lt;blockquote>
+&lt;p>【答案】B&lt;/p>
+&lt;blockquote>
+&lt;p>【详解】AB.河宽 d =300m ,由题图甲知船在静水中的速度恒为 $v_1 = 3m/s$ ,要想渡河时间短,船头方向必须与河岸垂直,最短时间 t = 100s ,A 错误,B 正确;&lt;/p>
+&lt;p>C.船参与了两种运动,沿垂直河岸方向的匀速运动,沿水流方向的变速运动,合运动是曲线运动,C 错误;&lt;/p>
+&lt;p>D.由题图乙知河中心的水流速最大,且为 $v_2 = 4 m/s$ ,船的最大速度应为 $v_m = \sqrt{v_1^2 + v_2^2} = 5m/s$ ,D 错误。&lt;/p>
+&lt;p>故选 B。&lt;/p>
+&lt;/blockquote>
+&lt;/blockquote>
+&lt;h4 id="第2题">第2题&lt;/h4>
+&lt;p>2.一小船过河的运动轨迹如图所示。河中各处水流速度大小相同且恒定不变,方向平行于岸边。若小船相对于静水分别做匀加速、匀减速、匀速直线运动,船相对于静水的初速度均相同(且均垂直于岸边)。由此可以确定( )&lt;/p>
+&lt;p>&lt;img src="https://demo.stack.jimmycai.com/p/%E7%9F%A5%E8%AF%86%E7%82%B93-%E5%B0%8F%E8%88%B9%E6%B8%A1%E6%B2%B3%E9%97%AE%E9%A2%98/2.png"
+width="504"
+height="316"
+srcset="https://demo.stack.jimmycai.com/p/%E7%9F%A5%E8%AF%86%E7%82%B93-%E5%B0%8F%E8%88%B9%E6%B8%A1%E6%B2%B3%E9%97%AE%E9%A2%98/2_hud10c072f74e58fee28083f91689ab886_45702_480x0_resize_box_3.png 480w, https://demo.stack.jimmycai.com/p/%E7%9F%A5%E8%AF%86%E7%82%B93-%E5%B0%8F%E8%88%B9%E6%B8%A1%E6%B2%B3%E9%97%AE%E9%A2%98/2_hud10c072f74e58fee28083f91689ab886_45702_1024x0_resize_box_3.png 1024w"
+loading="lazy"
+class="gallery-image"
+data-flex-grow="159"
+data-flex-basis="382px"
+>&lt;/p>
+&lt;p>A.船沿 AC 轨迹运动时,船相对于静水做匀加速直线运动&lt;/p>
+&lt;p>B.船沿 AC 轨迹渡河所用的时间最短&lt;/p>
+&lt;p>C.船沿 AD 轨迹到达对岸前瞬间的速度最小&lt;/p>
+&lt;p>D.船沿三条不同轨迹渡河所用的时间相同&lt;/p>
+&lt;blockquote>
+&lt;p>【答案】ABC&lt;/p>
+&lt;blockquote>
+&lt;p>【详解】ABD.加速度的方向指向轨迹的凹侧,依题意可知,AC 轨迹是匀加速运动,AB 轨迹是匀速运动,AD 轨迹是匀减速运动,故船沿 AC 轨迹过河所用的时间最短,选项 D 错误,AB 正确;&lt;/p>
+&lt;p>C.船沿 AD 轨迹在垂直河岸方向的运动是减速运动,故船到达对岸的速度最小,选项 C 正确。故选 ABC。&lt;/p>
+&lt;/blockquote>
+&lt;/blockquote>
+&lt;h3 id="考向2-小船渡河最短距离问题">考向2 小船渡河最短距离问题&lt;/h3>
+&lt;h4 id="第3题">第3题&lt;/h4>
+&lt;p>3.如图所示,小船(视为质点)从岸边 A 点开始渡河,河两岸平行,河的宽度为 150m,水流速度大小为3m/s,船在静水中的速度大小为 4m/s,则( )&lt;/p>
+&lt;p>&lt;img src="https://demo.stack.jimmycai.com/p/%E7%9F%A5%E8%AF%86%E7%82%B93-%E5%B0%8F%E8%88%B9%E6%B8%A1%E6%B2%B3%E9%97%AE%E9%A2%98/3.png"
+width="331"
+height="194"
+srcset="https://demo.stack.jimmycai.com/p/%E7%9F%A5%E8%AF%86%E7%82%B93-%E5%B0%8F%E8%88%B9%E6%B8%A1%E6%B2%B3%E9%97%AE%E9%A2%98/3_huccdc299bb81524755359318f0809d70a_12600_480x0_resize_box_3.png 480w, https://demo.stack.jimmycai.com/p/%E7%9F%A5%E8%AF%86%E7%82%B93-%E5%B0%8F%E8%88%B9%E6%B8%A1%E6%B2%B3%E9%97%AE%E9%A2%98/3_huccdc299bb81524755359318f0809d70a_12600_1024x0_resize_box_3.png 1024w"
+loading="lazy"
+class="gallery-image"
+data-flex-grow="170"
+data-flex-basis="409px"
+>&lt;/p>
+&lt;p>A.船不可能到达正对岸 B 点&lt;/p>
+&lt;p>B.船的最短过河时间为 37.5s&lt;/p>
+&lt;p>C.船要以最短路程过河,船头必须指向正对岸&lt;/p>
+&lt;p>D.船以最短路程过河时的速率为$ \sqrt{7}$ m/s$&lt;/p>
+&lt;blockquote>
+&lt;p>【答案】BD&lt;/p>
+&lt;blockquote>
+&lt;p>【详解】ACD.由于船在静水中的速度大于水流的速度,当速度满足如图所示关系时,船垂直河岸过河,此时为最短路程过河,船头方向与 $v_相对$ 方向相同,过河时的速率为 $v = \sqrt{v_{相对}^2 − v_水^2}= 7 m/s$, 故 AC 错误,D 正确;&lt;/p>
+&lt;p>B.船头垂直河岸过河时,时间最短,则有 $t_{min} =\frac{d}{v_{相对}} = 37.5s$。故 B 正确。故选 BD。&lt;/p>
+&lt;/blockquote>
+&lt;/blockquote>
+&lt;h4 id="第4题">第4题&lt;/h4>
+&lt;p>4.如图所示,河水流动的速度为 v 且处处相同,河宽度为 a,在船下河水点 A 的下游距离为 b 处是瀑布。为了使小船安全渡河(不掉到瀑布里去,且不考虑船在 A 对面的上游靠岸)( )&lt;/p>
+&lt;p>&lt;img src="https://demo.stack.jimmycai.com/p/%E7%9F%A5%E8%AF%86%E7%82%B93-%E5%B0%8F%E8%88%B9%E6%B8%A1%E6%B2%B3%E9%97%AE%E9%A2%98/4.png"
+width="611"
+height="303"
+srcset="https://demo.stack.jimmycai.com/p/%E7%9F%A5%E8%AF%86%E7%82%B93-%E5%B0%8F%E8%88%B9%E6%B8%A1%E6%B2%B3%E9%97%AE%E9%A2%98/4_hu73ad61c8b7697ba04db38f5588dfe98c_23830_480x0_resize_box_3.png 480w, https://demo.stack.jimmycai.com/p/%E7%9F%A5%E8%AF%86%E7%82%B93-%E5%B0%8F%E8%88%B9%E6%B8%A1%E6%B2%B3%E9%97%AE%E9%A2%98/4_hu73ad61c8b7697ba04db38f5588dfe98c_23830_1024x0_resize_box_3.png 1024w"
+loading="lazy"
+class="gallery-image"
+data-flex-grow="201"
+data-flex-basis="483px"
+>&lt;/p>
+&lt;p>A.小船船头垂直河岸渡河时间最短,最短时间为 $t =\frac{b}{a}$&lt;/p>
+&lt;p>B.小船轨迹沿 y 轴方向渡河位移最小,合速度最大,最大值为 $v_{max} = \frac{\sqrt{a^2+b^2}}{b}v$&lt;/p>
+&lt;p>C.小船沿轨迹 AB 运动位移最大,船速最小值为 $v_{min} =\frac{av}{v}$&lt;/p>
+&lt;p>D.小船沿轨迹 AB 运动位移最大,船速最小值为 $v_min =\frac{av}{\sqrt{a^2+b^2}}$&lt;/p>
+&lt;blockquote>
+&lt;p>【答案】D&lt;/p>
+&lt;blockquote>
+&lt;p>【详解】A.当小船船头垂直河岸渡河时间最短,最短时间为 $t =\frac{a}{v_船}$ 故 A 错误;&lt;/p>
+&lt;p>B.小船轨迹沿 y 轴方向渡河位移最小,为 a,但沿着船头指向的分速度速度必须指向上游,合速度不是最大,因此船的航行速度也不是最大的,故 B 错误;&lt;/p>
+&lt;p>CD.要合速度要沿着 AB 方向,此时位移显然是最大的,划船的速度最小,即当船在静水中速度垂直合速度时,则有$\frac{v_{min}}{v} = \frac{a}{\sqrt{a^2+b^2}} $，则有 $v_{min} = \frac{av}{\sqrt{a^2+b^2}} $ .故 C 错误,D 正确。故选 D。&lt;/p>
+&lt;/blockquote>
+&lt;/blockquote></description></item><item><title>关联速度模型</title><link>https://demo.stack.jimmycai.com/p/%E7%9F%A5%E8%AF%86%E7%82%B94-%E5%85%B3%E8%81%94%E9%80%9F%E5%BA%A6%E6%A8%A1%E5%9E%8B/</link><pubDate>Sun, 24 Dec 2023 00:00:00 +0000</pubDate><guid>https://demo.stack.jimmycai.com/p/%E7%9F%A5%E8%AF%86%E7%82%B94-%E5%85%B3%E8%81%94%E9%80%9F%E5%BA%A6%E6%A8%A1%E5%9E%8B/</guid><description>&lt;img src="https://demo.stack.jimmycai.com/p/%E7%9F%A5%E8%AF%86%E7%82%B94-%E5%85%B3%E8%81%94%E9%80%9F%E5%BA%A6%E6%A8%A1%E5%9E%8B/cover.jpg" alt="Featured image of post 关联速度模型" />&lt;h2 id="基础知识梳理">基础知识梳理&lt;/h2>
+&lt;h3 id="知识点1-分解思路">知识点1 分解思路&lt;/h3>
+&lt;h4 id="模型特点">模型特点&lt;/h4>
+&lt;p>模型特点:沿绳(杆)方向的速度分量大小相等。&lt;/p>
+&lt;h4 id="分解思路">分解思路&lt;/h4>
+&lt;ol>
+&lt;li>
+&lt;p>研究对象：绳与物/杆与物的接触点&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>合运动：接触点的运动&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>分解方向：沿着绳或杆方向/垂直绳或杆方向&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>突破口：沿着绳或杆方向的分速度大小相等&lt;/p>
+&lt;/li>
+&lt;/ol>
+&lt;h4 id="知识点-2-解题原则">知识点 2 解题原则&lt;/h4>
+&lt;p>把物体的实际速度分解为垂直于绳(杆)和平行于绳(杆)两个分量,根据沿绳(杆)方向的分速度大小相等求解。常见的模型如图所示&lt;/p>
+&lt;p>&lt;img src="https://demo.stack.jimmycai.com/p/%E7%9F%A5%E8%AF%86%E7%82%B94-%E5%85%B3%E8%81%94%E9%80%9F%E5%BA%A6%E6%A8%A1%E5%9E%8B/1.png"
+width="1153"
+height="279"
+srcset="https://demo.stack.jimmycai.com/p/%E7%9F%A5%E8%AF%86%E7%82%B94-%E5%85%B3%E8%81%94%E9%80%9F%E5%BA%A6%E6%A8%A1%E5%9E%8B/1_hu957ed43ea4ea0bf9a19ec9bf065d414d_32264_480x0_resize_box_3.png 480w, https://demo.stack.jimmycai.com/p/%E7%9F%A5%E8%AF%86%E7%82%B94-%E5%85%B3%E8%81%94%E9%80%9F%E5%BA%A6%E6%A8%A1%E5%9E%8B/1_hu957ed43ea4ea0bf9a19ec9bf065d414d_32264_1024x0_resize_box_3.png 1024w"
+loading="lazy"
+class="gallery-image"
+data-flex-grow="413"
+data-flex-basis="991px"
+>&lt;/p>
+&lt;h2 id="题型归纳">题型归纳&lt;/h2>
+&lt;h3 id="考向1-绳类关联速度">考向1 绳类关联速度&lt;/h3>
+&lt;h4 id="第1题">第1题&lt;/h4>
+&lt;p>1.质量为m的物体 P 置于倾角为 $\theta_1$ 的固定光滑斜面上,轻细绳跨过光滑定滑轮分别连接着 P 与小车, P 与滑轮间的细绳平行于斜面,小车以速率 v 水平向右做匀速直线运动,当小车与滑轮间的细绳和水平方向成夹角$\theta_2$ 时 ( 如图 ) ,下列判断正确的是 ( )&lt;/p>
+&lt;p>&lt;img src="https://demo.stack.jimmycai.com/p/%E7%9F%A5%E8%AF%86%E7%82%B94-%E5%85%B3%E8%81%94%E9%80%9F%E5%BA%A6%E6%A8%A1%E5%9E%8B/2.png"
+width="398"
+height="141"
+srcset="https://demo.stack.jimmycai.com/p/%E7%9F%A5%E8%AF%86%E7%82%B94-%E5%85%B3%E8%81%94%E9%80%9F%E5%BA%A6%E6%A8%A1%E5%9E%8B/2_hu636fade29d5fc95dc6c6caa13bd8cb7a_22893_480x0_resize_box_3.png 480w, https://demo.stack.jimmycai.com/p/%E7%9F%A5%E8%AF%86%E7%82%B94-%E5%85%B3%E8%81%94%E9%80%9F%E5%BA%A6%E6%A8%A1%E5%9E%8B/2_hu636fade29d5fc95dc6c6caa13bd8cb7a_22893_1024x0_resize_box_3.png 1024w"
+loading="lazy"
+class="gallery-image"
+data-flex-grow="282"
+data-flex-basis="677px"
+>&lt;/p>
+&lt;p>A. P 的速率为 v&lt;/p>
+&lt;p>B. P 的速率为 $v \cos \theta_2$&lt;/p>
+&lt;p>C.绳的拉力等于 $mg \sin \theta_1$&lt;/p>
+&lt;p>D.绳的拉力小于 $mg \sin \theta_1$&lt;/p>
+&lt;blockquote>
+&lt;p>【答案】B&lt;/p>
+&lt;blockquote>
+&lt;p>【详解】&lt;/p>
+&lt;p>AB.将小车的速度 v 沿绳子方向和垂直于绳子方向正交分解,如图所示
+&lt;img src="https://demo.stack.jimmycai.com/p/%E7%9F%A5%E8%AF%86%E7%82%B94-%E5%85%B3%E8%81%94%E9%80%9F%E5%BA%A6%E6%A8%A1%E5%9E%8B/3.png"
+width="199"
+height="213"
+srcset="https://demo.stack.jimmycai.com/p/%E7%9F%A5%E8%AF%86%E7%82%B94-%E5%85%B3%E8%81%94%E9%80%9F%E5%BA%A6%E6%A8%A1%E5%9E%8B/3_hu1846f1ed9d68a398bc9027004d22ca4c_12093_480x0_resize_box_3.png 480w, https://demo.stack.jimmycai.com/p/%E7%9F%A5%E8%AF%86%E7%82%B94-%E5%85%B3%E8%81%94%E9%80%9F%E5%BA%A6%E6%A8%A1%E5%9E%8B/3_hu1846f1ed9d68a398bc9027004d22ca4c_12093_1024x0_resize_box_3.png 1024w"
+loading="lazy"
+class="gallery-image"
+data-flex-grow="93"
+data-flex-basis="224px"
+>&lt;/p>
+&lt;p>物体 P 的速度与小车沿绳子方向的速度相等,则有 $v_P = v \cos \theta_2$ 故 B 正确,A 错误;&lt;/p>
+&lt;p>CD.小车向右运动,所以$\theta_2$减小, v 不变,所以 $v_P$ 逐渐变大,说明物体 P 沿斜面向上做加速运动。对物体P 受力分析可知,物体 P 受到竖直向下的重力,垂直于斜面向上的支持力,沿绳向上的拉力 T,沿斜面和垂直斜面建立正交轴, 沿斜面方向由牛顿第二定律可得$ T - mg \sin \theta_1 = ma $可得 $T &amp;gt; mg \sin \theta_1 $故 CD 错误。故选 B。&lt;/p>
+&lt;/blockquote>
+&lt;/blockquote>
+&lt;h4 id="第2题">第2题&lt;/h4>
+&lt;p>2.如图所示,某人通过跨过定滑轮的绳子将小车拉上倾角为$\alpha$的光滑斜面,人拉动绳子的速度 v 恒定,下列说法正确的是( )&lt;/p>
+&lt;p>&lt;img src="https://demo.stack.jimmycai.com/p/%E7%9F%A5%E8%AF%86%E7%82%B94-%E5%85%B3%E8%81%94%E9%80%9F%E5%BA%A6%E6%A8%A1%E5%9E%8B/4.png"
+width="441"
+height="260"
+srcset="https://demo.stack.jimmycai.com/p/%E7%9F%A5%E8%AF%86%E7%82%B94-%E5%85%B3%E8%81%94%E9%80%9F%E5%BA%A6%E6%A8%A1%E5%9E%8B/4_huc1234bb57f4c47f6ad05ffd4e21c2174_26553_480x0_resize_box_3.png 480w, https://demo.stack.jimmycai.com/p/%E7%9F%A5%E8%AF%86%E7%82%B94-%E5%85%B3%E8%81%94%E9%80%9F%E5%BA%A6%E6%A8%A1%E5%9E%8B/4_huc1234bb57f4c47f6ad05ffd4e21c2174_26553_1024x0_resize_box_3.png 1024w"
+loading="lazy"
+class="gallery-image"
+data-flex-grow="169"
+data-flex-basis="407px"
+>&lt;/p>
+&lt;p>A.小车沿斜面上升的过程中,人对绳子拉力恒定&lt;/p>
+&lt;p>B.小车沿斜面上升的过程中,小车的动能先增大后减小&lt;/p>
+&lt;p>C.小车沿斜面上升 h 高的过程中,绳子拉力对小车做的功大于小车重力势能的增加量&lt;/p>
+&lt;p>D.当绳子与斜面斜边的夹角为$\beta$时,小车的速度为$\frac{v}{\cos(\alpha+\beta)}$&lt;/p>
+&lt;blockquote>
+&lt;p>【答案】C&lt;/p>
+&lt;blockquote>
+&lt;p>【详解】BD.由题意可知,小车速度的方向为沿斜面向上,设小车的速度为 $v_车$ ,将小车速度分解为沿绳子收缩方向与垂直绳子方向,则 $v_车 \cos \beta = v $因此 $v_车 =\frac{v}{\cos \beta}$.由于人拉动绳子的速度 v 恒定,小车沿斜面向上运动的过程中 $\beta$ 越来越大,因此小车速度 $v_车$ 也越来越大,小车的动能一直增加,故 BD 错误。&lt;/p>
+&lt;p>A.对小车进行受力分析,设绳子的拉力沿斜面的分力为 F ,则 $F = F_拉 \cos \beta$.由余弦函数性质可知,在 0 到 90 度范围内,角度越大,变化越快,因此$\beta$增大时,小车的速度$\frac{v}{\cos \beta}$增大,变化速度也增大,即加速度增大,所以绳子拉力沿斜面的分力 F 增大,而 $\cos \beta$减小,因此人对绳子的拉力 $F_拉$ 增大,故 A 错误;&lt;/p>
+&lt;p>C.小车在沿斜面上升 h 高的过程中,仅绳子的拉力和重力对小车做功,其中绳子的拉力对小车做正功,重力对小车做负功。设此过程中绳子的拉力对小车做功大小为 $W_F$ ,重力对小车做功大小为 $W_G$ ,由于过程中小车速度越来越大,因此根据动能定理可得 $W_F − W_G = \Delta E_k &amp;gt; 0$ 因此 4W_F &amp;gt; W_G$.由于重力对小车做负功的大小等于小车重力势能的增加量,因此此过程中绳子拉力对小车做的功大于小车重力势能的增加量,故 C 正确。&lt;/p>
+&lt;p>故选 C。&lt;/p>
+&lt;/blockquote>
+&lt;/blockquote>
+&lt;h3 id="考向2-杆类关联速度">考向2 杆类关联速度&lt;/h3>
+&lt;h4 id="第3题">第3题&lt;/h4>
+&lt;p>3.如图所示,长为 L 的直棒一端可绕固定轴 O 转动,另一端搁在水平升降台上,升降平台以速度 v 匀速上升,当棒与竖直方向的夹角为$\theta$时,棒的角速度为( )&lt;/p>
+&lt;p>&lt;img src="https://demo.stack.jimmycai.com/p/%E7%9F%A5%E8%AF%86%E7%82%B94-%E5%85%B3%E8%81%94%E9%80%9F%E5%BA%A6%E6%A8%A1%E5%9E%8B/5.png"
+width="441"
+height="260"
+srcset="https://demo.stack.jimmycai.com/p/%E7%9F%A5%E8%AF%86%E7%82%B94-%E5%85%B3%E8%81%94%E9%80%9F%E5%BA%A6%E6%A8%A1%E5%9E%8B/5_hua168b08015487763ecd29ef1ec900e5b_19247_480x0_resize_box_3.png 480w, https://demo.stack.jimmycai.com/p/%E7%9F%A5%E8%AF%86%E7%82%B94-%E5%85%B3%E8%81%94%E9%80%9F%E5%BA%A6%E6%A8%A1%E5%9E%8B/5_hua168b08015487763ecd29ef1ec900e5b_19247_1024x0_resize_box_3.png 1024w"
+loading="lazy"
+class="gallery-image"
+data-flex-grow="169"
+data-flex-basis="407px"
+>&lt;/p>
+&lt;p>A. $\frac{v \sin \theta}{L}$&lt;/p>
+&lt;p>B. $\frac{v}{L \cos \theta}$&lt;/p>
+&lt;p>C. $\frac{v \cos \theta}{L}$&lt;/p>
+&lt;p>D. &amp;gt;$\frac{v}{L \sin \theta}$&lt;/p>
+&lt;blockquote>
+&lt;p>【答案】D&lt;/p>
+&lt;blockquote>
+&lt;p>【详解】棒与平台接触点的实际运动即合运动,方向垂直于棒指向左上方,如图所示,合速度为 $v_实=\omega L$&lt;/p>
+&lt;p>&lt;img src="https://demo.stack.jimmycai.com/p/%E7%9F%A5%E8%AF%86%E7%82%B94-%E5%85%B3%E8%81%94%E9%80%9F%E5%BA%A6%E6%A8%A1%E5%9E%8B/6.png"
+width="441"
+height="233"
+srcset="https://demo.stack.jimmycai.com/p/%E7%9F%A5%E8%AF%86%E7%82%B94-%E5%85%B3%E8%81%94%E9%80%9F%E5%BA%A6%E6%A8%A1%E5%9E%8B/6_hu3ba28170b1957891bcb32d92479e3db1_28419_480x0_resize_box_3.png 480w, https://demo.stack.jimmycai.com/p/%E7%9F%A5%E8%AF%86%E7%82%B94-%E5%85%B3%E8%81%94%E9%80%9F%E5%BA%A6%E6%A8%A1%E5%9E%8B/6_hu3ba28170b1957891bcb32d92479e3db1_28419_1024x0_resize_box_3.png 1024w"
+loading="lazy"
+class="gallery-image"
+data-flex-grow="189"
+data-flex-basis="454px"
+>&lt;/p>
+&lt;p>竖直向上的速度分量等于平台上升的速度 v,即 $\omega L \sin \theta = v$,所以$ \omega =\frac{v}{L \sin \theta}$,故选 D。&lt;/p>
+&lt;/blockquote>
+&lt;/blockquote>
+&lt;h4 id="第4题">第4题&lt;/h4>
+&lt;p>4.如图所示,压缩机通过活塞在汽缸内做往复运动来压缩和输送气体,活塞的中心 A 与圆盘在同一平面内,O为圆盘圆心,B 为圆盘上一点,A、B 处通过铰链连接在轻杆两端,圆盘绕过 O 点的轴做角速度为 $\omega$的匀速圆周运动。已知 O、B 间距离为 r,AB 杆长为 L ,则( )&lt;/p>
+&lt;p>&lt;img src="https://demo.stack.jimmycai.com/p/%E7%9F%A5%E8%AF%86%E7%82%B94-%E5%85%B3%E8%81%94%E9%80%9F%E5%BA%A6%E6%A8%A1%E5%9E%8B/7.png"
+width="552"
+height="241"
+srcset="https://demo.stack.jimmycai.com/p/%E7%9F%A5%E8%AF%86%E7%82%B94-%E5%85%B3%E8%81%94%E9%80%9F%E5%BA%A6%E6%A8%A1%E5%9E%8B/7_hu22d51c7e6bddbceda4b1d4288cac2483_30704_480x0_resize_box_3.png 480w, https://demo.stack.jimmycai.com/p/%E7%9F%A5%E8%AF%86%E7%82%B94-%E5%85%B3%E8%81%94%E9%80%9F%E5%BA%A6%E6%A8%A1%E5%9E%8B/7_hu22d51c7e6bddbceda4b1d4288cac2483_30704_1024x0_resize_box_3.png 1024w"
+loading="lazy"
+class="gallery-image"
+data-flex-grow="229"
+data-flex-basis="549px"
+>&lt;/p>
+&lt;p>A.L 越大,活塞运动的范围越大&lt;/p>
+&lt;p>B.圆盘半径越大,活塞运动的范围越大&lt;/p>
+&lt;p>C.当 OB 垂直于 AB 时,活塞速度为 $\omega r$&lt;/p>
+&lt;p>D.当 OB 垂直于 AO 时,活塞速度为 $\omega r$&lt;/p>
+&lt;blockquote>
+&lt;p>【答案】D&lt;/p>
+&lt;blockquote>
+&lt;p>【详解】AB.当 B 点在圆心左侧水平位置时,活塞运动到最左位置,距离 O 点 $s_1 = L + r$. 当 B 点在圆心右侧水平位置时,活塞运动到最右位置,距离 O 点 $s_2 = L − r$. 所以活塞运动范围为 $s 1 − s2 = 2r $,此距离与 L 无关,与 r 成正比,与圆盘半径无关,故 AB 错误;&lt;/p>
+&lt;p>C.当 OB 垂直于 AB 时, 如下图所示.此时 B 点的速度方向一定沿杆,则 $v_A \neq v_B$ 故 C 错误;&lt;/p>
+&lt;p>&lt;img src="https://demo.stack.jimmycai.com/p/%E7%9F%A5%E8%AF%86%E7%82%B94-%E5%85%B3%E8%81%94%E9%80%9F%E5%BA%A6%E6%A8%A1%E5%9E%8B/8.png"
+width="567"
+height="263"
+srcset="https://demo.stack.jimmycai.com/p/%E7%9F%A5%E8%AF%86%E7%82%B94-%E5%85%B3%E8%81%94%E9%80%9F%E5%BA%A6%E6%A8%A1%E5%9E%8B/8_huf837815561de1748b2e188aedb0e0f69_27823_480x0_resize_box_3.png 480w, https://demo.stack.jimmycai.com/p/%E7%9F%A5%E8%AF%86%E7%82%B94-%E5%85%B3%E8%81%94%E9%80%9F%E5%BA%A6%E6%A8%A1%E5%9E%8B/8_huf837815561de1748b2e188aedb0e0f69_27823_1024x0_resize_box_3.png 1024w"
+loading="lazy"
+class="gallery-image"
+data-flex-grow="215"
+data-flex-basis="517px"
+>&lt;/p>
+&lt;p>D.圆盘 B 点速度 $v_B = r \omega $ 当 OB 垂直于 AO 时,如下图所示.
+此时活塞速度方向与圆盘上 B 点速度方向相同,速度方向与杆夹角$\theta$相同,沿杆速度 $v_B \cos \theta = v_A \cos \theta$,此时有 $v_A = v_B = r \omega $ 故 D 正确。故选 D。
+&lt;img src="https://demo.stack.jimmycai.com/9.png"
+loading="lazy"
+>&lt;/p>
+&lt;/blockquote>
+&lt;/blockquote></description></item><item><title>markdown基本语法</title><link>https://demo.stack.jimmycai.com/p/%E7%BD%91%E7%AB%99%E7%9A%84%E5%86%99%E4%BD%9C%E6%96%B9%E5%BC%8F/</link><pubDate>Sat, 23 Dec 2023 00:00:00 +0000</pubDate><guid>https://demo.stack.jimmycai.com/p/%E7%BD%91%E7%AB%99%E7%9A%84%E5%86%99%E4%BD%9C%E6%96%B9%E5%BC%8F/</guid><description>&lt;h1 id="markdown基本语法">markdown基本语法&lt;/h1>
+&lt;p>&lt;code>Markdown&lt;/code>是一种轻量级标记语言，排版语法简洁，让人们更多地关注内容本身而非排版。它使用易读易写的纯文本格式编写文档，可与HTML混编，可导出 HTML、PDF 以及本身的 .md 格式的文件。因简洁、高效、易读、易写，Markdown被大量使用，如Github、Wikipedia、简书等。&lt;/p>
+&lt;p>千万不要被「标记」、「语言」吓到，Markdown的语法十分简单，常用的标记符号不超过十个，用于日常写作记录绰绰有余，不到半小时就能完全掌握。&lt;/p>
+&lt;p>就是这十个不到的标记符号，却能让人&lt;strong>优雅地沉浸式记录，专注内容而不是纠结排版&lt;/strong>，达到「心中无尘，码字入神」的境界。&lt;/p>
+&lt;h2 id="markdown标题语法">markdown标题语法&lt;/h2>
+&lt;p>要创建标题，请在单词或短语前面添加&lt;code>井号+空格&lt;/code>（# ）;&lt;/p>
+&lt;p>井号的数量代表了标题的级别，例如：&lt;/p>
+&lt;h1 id="一级标题">一级标题&lt;/h1>
+&lt;p># 一级标题&lt;/p>
+&lt;h2 id="二级标题">二级标题&lt;/h2>
+&lt;p>## 二级标题&lt;/p>
+&lt;h3 id="三级标题">三级标题&lt;/h3>
+&lt;p>### 三级标题&lt;/p>
+&lt;h4 id="四级标题">四级标题&lt;/h4>
+&lt;p>#### 四级标题&lt;/p>
+&lt;h5 id="五级标题">五级标题&lt;/h5>
+&lt;p>##### 五级标题&lt;/p>
+&lt;h6 id="六级标题">六级标题&lt;/h6>
+&lt;p>###### 六级标题&lt;/p>
+&lt;h2 id="markdown段落语法">markdown段落语法&lt;/h2>
+&lt;p>要创建段落，请使用&lt;code>空白行&lt;/code>将一行或多行文本进行分隔。&lt;/p>
+&lt;h2 id="markdown强调语法">markdown强调语法&lt;/h2>
+&lt;h3 id="斜体">斜体&lt;/h3>
+&lt;p>文本内容前后各加上1个*，例如：&lt;/p>
+&lt;p>*曲线运动* &amp;mdash;&amp;gt; &lt;strong>曲线运动&lt;/strong>&lt;/p>
+&lt;h3 id="粗体">粗体&lt;/h3>
+&lt;p>文本内容前后各加上两个*，例如：&lt;/p>
+&lt;p>**曲线运动** &amp;mdash;&amp;gt; &lt;strong>曲线运动&lt;/strong>&lt;/p>
+&lt;h3 id="短代码">短代码&lt;/h3>
+&lt;p>将文本包裹在双反引号(``)中，例如：&lt;/p>
+&lt;p>`曲线运动` &amp;mdash;-&amp;gt; &lt;code>曲线运动&lt;/code>&lt;/p>
+&lt;h2 id="markdown引用语法">markdown引用语法&lt;/h2>
+&lt;p>要创建块引用，请在段落前添加一个 &lt;code>&amp;gt;&lt;/code> 符号，例如：&lt;/p>
+&lt;p>&amp;gt;&lt;/p>
+&lt;blockquote>
+&lt;/blockquote>
+&lt;p>块引用可以包含多个段落。为段落之间的空白行添加一个 &lt;code>&amp;gt;&lt;/code> 符号，例如：
+&amp;gt; 曲线
+&amp;gt;
+&amp;gt; 曲线（curve，curved line）是平滑弯曲的线段或线条，也指动点运动方向连续变化的轨迹。&lt;/p>
+&lt;blockquote>
+&lt;p>曲线&lt;/p>
+&lt;p>曲线（curve，curved line）是平滑弯曲的线段或线条，也指动点运动方向连续变化的轨迹。&lt;/p>
+&lt;/blockquote>
+&lt;p>块引用可以嵌套。在要嵌套的段落前添加一个 &amp;raquo; 符号，例如：&lt;/p>
+&lt;p>&amp;gt; &amp;gt; 曲线
+&amp;gt;
+&amp;gt; &amp;gt; 曲线（curve，curved line）是平滑弯曲的线段或线条，也指动点运动方向连续变化的轨迹。&lt;/p>
+&lt;blockquote>
+&lt;blockquote>
+&lt;p>曲线&lt;/p>
+&lt;/blockquote>
+&lt;blockquote>
+&lt;p>曲线（curve，curved line）是平滑弯曲的线段或线条，也指动点运动方向连续变化的轨迹。&lt;/p>
+&lt;/blockquote>
+&lt;/blockquote>
+&lt;h2 id="markdown列表语法">markdown列表语法&lt;/h2>
+&lt;h3 id="有序列表">有序列表&lt;/h3>
+&lt;p>&lt;code>数字+英文句号+空格&lt;/code>&lt;/p>
+&lt;ol>
+&lt;li>&lt;/li>
+&lt;li>&lt;/li>
+&lt;li>&lt;/li>
+&lt;li>&lt;/li>
+&lt;/ol>
+&lt;h3 id="无序列表">无序列表&lt;/h3>
+&lt;p>请在每个列表项前面添加破折号 (-)、星号 (*) 或加号 (+)&lt;/p>
+&lt;ul>
+&lt;li>&lt;/li>
+&lt;li>&lt;/li>
+&lt;li>&lt;/li>
+&lt;li>&lt;/li>
+&lt;/ul>
+&lt;h2 id="markdown链接语法">markdown链接语法&lt;/h2>
+&lt;p>链接文本放在中括号内，链接地址放在后面的括号中，链接title可选。&lt;/p>
+&lt;p>超链接Markdown语法代码：&lt;code>[超链接显示名](超链接地址 &amp;quot;超链接title&amp;quot;)&lt;/code>&lt;/p>
+&lt;blockquote>
+&lt;p>悬停时会显示超链接title&lt;/p>
+&lt;/blockquote>
+&lt;p>&lt;a class="link" href="%e8%b6%85%e9%93%be%e6%8e%a5%e5%9c%b0%e5%9d%80" title="超链接title"
+>超链接显示名&lt;/a>&lt;/p>
+&lt;h2 id="markdown-图片语法">Markdown 图片语法&lt;/h2>
+&lt;h3 id="图片的存放位置">图片的存放位置&lt;/h3>
+&lt;p>在你保存.md后缀的相同位置处，快捷键&lt;code>ctrl+shift+N&lt;/code>新建一个文件夹，命名为&lt;code>pic&lt;/code>。将图片按顺序&lt;code>命名&lt;/code>好(最好是数字，这样后面引用会很简单)&lt;/p>
+&lt;h3 id="图片的引用方法">图片的引用方法&lt;/h3>
+&lt;p>![替换文本](图片链接 &amp;ldquo;图片title&amp;rdquo;)&lt;/p>
+&lt;p>替换文本：当图片无法显示的时候出现的替换文字&lt;/p>
+&lt;p>图片链接：图片所处的位置&lt;/p>
+&lt;p>图片title：悬停时，鼠标会显示图片的title&lt;/p>
+&lt;p>例如：&lt;/p>
+&lt;p>![压制视频](1.png &amp;ldquo;压制视频&amp;rdquo;)&lt;/p>
+&lt;p>&lt;img src="https://demo.stack.jimmycai.com/p/%E7%BD%91%E7%AB%99%E7%9A%84%E5%86%99%E4%BD%9C%E6%96%B9%E5%BC%8F/1.png"
+width="2304"
+height="1534"
+srcset="https://demo.stack.jimmycai.com/p/%E7%BD%91%E7%AB%99%E7%9A%84%E5%86%99%E4%BD%9C%E6%96%B9%E5%BC%8F/1_hu75fd21b16318948197891fa3f13aa684_271251_480x0_resize_box_3.png 480w, https://demo.stack.jimmycai.com/p/%E7%BD%91%E7%AB%99%E7%9A%84%E5%86%99%E4%BD%9C%E6%96%B9%E5%BC%8F/1_hu75fd21b16318948197891fa3f13aa684_271251_1024x0_resize_box_3.png 1024w"
+loading="lazy"
+alt="压制视频"
+class="gallery-image"
+data-flex-grow="150"
+data-flex-basis="360px"
+>&lt;/p>
+&lt;p>关于&lt;code>hugo book&lt;/code>主题的使用，参考：&lt;/p></description></item><item><title>Archives</title><link>https://demo.stack.jimmycai.com/archives/</link><pubDate>Sun, 06 Mar 2022 00:00:00 +0000</pubDate><guid>https://demo.stack.jimmycai.com/archives/</guid><description/></item><item><title>Links</title><link>https://demo.stack.jimmycai.com/links/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://demo.stack.jimmycai.com/links/</guid><description>&lt;p>To use this feature, add &lt;code>links&lt;/code> section to frontmatter.&lt;/p>
+&lt;p>This page&amp;rsquo;s frontmatter:&lt;/p>
+&lt;div class="highlight">&lt;div class="chroma">
+&lt;table class="lntable">&lt;tr>&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code>&lt;span class="lnt">1
+&lt;/span>&lt;span class="lnt">2
+&lt;/span>&lt;span class="lnt">3
+&lt;/span>&lt;span class="lnt">4
+&lt;/span>&lt;span class="lnt">5
+&lt;/span>&lt;span class="lnt">6
+&lt;/span>&lt;span class="lnt">7
+&lt;/span>&lt;span class="lnt">8
+&lt;/span>&lt;span class="lnt">9
+&lt;/span>&lt;/code>&lt;/pre>&lt;/td>
+&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code class="language-yaml" data-lang="yaml">&lt;span class="line">&lt;span class="cl">&lt;span class="nt">links&lt;/span>&lt;span class="p">:&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="w"> &lt;/span>- &lt;span class="nt">title&lt;/span>&lt;span class="p">:&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="l">GitHub&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="w"> &lt;/span>&lt;span class="nt">description&lt;/span>&lt;span class="p">:&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="l">GitHub is the world&amp;#39;s largest software development platform.&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="w"> &lt;/span>&lt;span class="nt">website&lt;/span>&lt;span class="p">:&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="l">https://github.com&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="w"> &lt;/span>&lt;span class="nt">image&lt;/span>&lt;span class="p">:&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="l">https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="w"> &lt;/span>- &lt;span class="nt">title&lt;/span>&lt;span class="p">:&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="l">TypeScript&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="w"> &lt;/span>&lt;span class="nt">description&lt;/span>&lt;span class="p">:&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="l">TypeScript is a typed superset of JavaScript that compiles to plain JavaScript.&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="w"> &lt;/span>&lt;span class="nt">website&lt;/span>&lt;span class="p">:&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="l">https://www.typescriptlang.org&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="w"> &lt;/span>&lt;span class="nt">image&lt;/span>&lt;span class="p">:&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="l">ts-logo-128.jpg&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/td>&lt;/tr>&lt;/table>
+&lt;/div>
+&lt;/div>&lt;p>&lt;code>image&lt;/code> field accepts both local and external images.&lt;/p></description></item><item><title>Search</title><link>https://demo.stack.jimmycai.com/search/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://demo.stack.jimmycai.com/search/</guid><description/></item></channel></rss>
